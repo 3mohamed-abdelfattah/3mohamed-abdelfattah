@@ -53,3 +53,15 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/3mohamed-abdelfattah/3mohamed-abdelfattah/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/3mohamed-abdelfattah/count.svg?"  />
+</div>
+
+###
