@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋! My name is Mohamed and I'm a Mobile Developer, from EGYPT</h2>
-
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mohamed 👋 I'm a 🚀 Mobile Egyptian developer 🚀">
+</p>
 ###
 
 <div align="left">
