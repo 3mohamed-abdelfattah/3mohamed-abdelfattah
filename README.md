@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center">Hi 👋! My name is Mohamed and I'm a Mobile Developer, from EGYPT</h2>
+<h2 align="center">Hi!👋 My name is Mohamed and I'm a Mobile Developer, from EGYPT</h2>
 
 
 
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/mohamed-mohamed-665003276/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="01005548673" target="_blank">
+  <a href="https://wa.me/+201005548673" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
