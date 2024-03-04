@@ -32,35 +32,30 @@
 name: Mohamed Mohamed
 located_in: Beni Suef, Egypt
 current_job: Front End Developer
-education:
+education: Computer Science at Beni Suef University
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
   ]
-company: Soulber
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
+    "Android Development",
+    "IOS Development",
     "Game Development",
-    "DevOps",
+    "UI/UX",
+    "Professional Athlete",
   ]
 technical_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "React js"
+    "Kotlin",
+    "Version Control",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
+currently_learning: ["Advanced Programming in Kotlin, Working with Data in Android, and React Native"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Gaming", "Athlete", "Comedy"]
 ```
   
 ---  
@@ -107,6 +102,18 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 </p>
 
+###
+
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/3mohamed-abdelfattah/count.svg?"  />
+</div>
+
+###
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
@@ -116,9 +123,6 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/3mohamed-abdelfattah/count.svg?"  />
-</div>
 
-###
+
 
