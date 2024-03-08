@@ -31,7 +31,7 @@
 ```yaml
 name: Mohamed Mohamed
 located_in: Beni Suef, Egypt
-current_job: Front End Developer
+Future_job: Front End Developer
 education: Computer Science at Beni Suef University
   [
     "Self-Taught Developer and Designer",
