@@ -51,6 +51,13 @@ technical_background:
     "React js"
     "Kotlin",
     "Version Control",
+    "Linux",
+    "C++",
+    "JavaScript",
+    "Python",
+    "HTML",
+    "CSS",
+    "Bootstrap",
   ]
   
 currently_learning: ["Advanced Programming in Kotlin, Working with Data in Android, and React Native"]
