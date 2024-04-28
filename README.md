@@ -42,7 +42,6 @@ fields_of_interests:
     "Web Development",
     "Android Development",
     "IOS Development",
-    "Game Development",
     "UI/UX",
     "Professional Athlete",
   ]
