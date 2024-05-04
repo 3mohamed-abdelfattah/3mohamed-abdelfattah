@@ -36,7 +36,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,cpp,java,react,py,androidstudio,atom,bootstrap,firebase,git,github,ide,ktor,linux,netlify,sass,vscode,blender,figma,adobepremierepro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,cpp,java,react,py,androidstudio,atom,bootstrap,firebase,git,github,ide,ktor,linux,netlify,sass,vscode,blender,figma,adobepremiere)](https://skillicons.dev)
 <br/>
 
 
@@ -56,8 +56,10 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 <div align="center">
 <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&layout=compact&hide_border=true&theme=onedark">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah0&hide_border=true&theme=onedark">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=onedark">
  <a href="https://github.com/3mohamed-abdelfattah">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&theme=onedark&line_height=27" alt="3mohamed-abdelfattah github stats"/>
 </a>
 </div>
+
+### It was nice meeting you :raised_hands: 
