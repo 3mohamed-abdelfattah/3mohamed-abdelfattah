@@ -2,13 +2,11 @@
 
 
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
-
-
 <h2 align="center">Hi!👋 My name is Mohamed and I'm a Mobile Developer, from EGYPT</h2>
+
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=0e75b6&style=flat" alt="3mohamed-abdelfattah" /> </p>
 
 
 
