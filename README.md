@@ -47,7 +47,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
  
 |       **Repo**            |   **Language** |
 | ------------------------- | ---------------|
-|   [Vritual-Medical-Project]([[https://github.com/mohamedtamer0/DataStructures-Algorithms-Kotlin](https://github.com/3mohamed-abdelfattah/Virtual)](https://github.com/3mohamed-abdelfattah/Virtual))  |  **React.js** |
+|   [Vritualt]([[https://github.com/mohamedtamer0/DataStructures-Algorithms-Kotlin](https://github.com/3mohamed-abdelfattah/Virtual)](https://github.com/3mohamed-abdelfattah/Virtual))  |  **React.js** |
 
  
 
