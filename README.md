@@ -1,14 +1,19 @@
 ![1544118575312](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)
 
 
-
-<h2 align="center">Hi!👋 My name is Mohamed and I'm a Mobile Developer, from EGYPT</h2>
-
-
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=0e75b6&style=flat" alt="3mohamed-abdelfattah" /> </p>
 
 
+
+### Hey... 
+<p>
+Hello, I'm Mohamed Mohamed, a Mobile Developer, from EGYPT. Seeking internship opportunities or development projects to elevate my skills in computer science and programming techniques, ready to explore the challenges of modern technology.🚀
+
+Beyond my professional roles, I actively contribute to the open-source community, showcasing extensive expertise in various tech domains such as Android Native, Web Development, JavaScript, Kotlin, and more.
+
+My journey reflects a commitment to continuous learning, and I harbor a great ambition to further develop my skills in a collaborative environment. Engaging with all facets of the development lifecycle, my work is centered on crafting user-focused, innovative solutions, and delivering clean code through effective teamwork.
+</p>
 
 
 <h1 align="center">
