@@ -56,17 +56,16 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&layout=compact&hide_border=true&theme=onedark" width="50%" alt="إحصائيات لغات المستخدم 3mohamed-abdelfattah" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&layout=compact&hide_border=true&theme=onedark" width="50%" alt="إحصائيات لغات المستخدم 3mohamed-abdelfattah" style="display: inline-block;"/>
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=onedark" width="50%" alt="إحصائيات سلسلة المستخدم 3mohamed-abdelfattah" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=onedark" width="50%" alt="إحصائيات سلسلة المستخدم 3mohamed-abdelfattah" style="display: inline-block;"/>
   </div>
 </div>
 
 <a href="https://github.com/3mohamed-abdelfattah">
-  <img src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&theme=onedark&line_height=27" alt="إحصائيات GitHub 3mohamed-abdelfattah" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&theme=onedark&line_height=27" alt="إحصائيات GitHub 3mohamed-abdelfattah" style="display: block; width: 100%;"/>
 </a>
-
 
 
 ### It was nice meeting you :raised_hands: 
