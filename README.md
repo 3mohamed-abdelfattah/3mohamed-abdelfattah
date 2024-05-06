@@ -57,15 +57,15 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 <div align="center">
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
         <div style="flex: 1; margin-right: 10px;">
-            <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&layout=compact&hide_border=true&theme=onedark">
+            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&layout=compact&hide_border=true&theme=onedark">
         </div>
         <div style="flex: 1; margin-left: 10px;">
-            <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=onedark">
+            <img  src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=onedark">
         </div>
     </div>
     <div style="margin-top: 20px;">
         <a href="https://github.com/3mohamed-abdelfattah">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&theme=onedark&line_height=27" alt="3mohamed-abdelfattah github stats"/>
+            <img " src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&theme=onedark&line_height=27" alt="3mohamed-abdelfattah github stats"/>
         </a>
     </div>
 </div>
