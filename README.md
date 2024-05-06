@@ -54,7 +54,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
 
 
-<div style="display: flex; flex-direction: row;  justify-content: space-between;">
+<div style="display: flex; flex-direction: row;  justify-content: space-evenly;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&layout=compact&hide_border=true&theme=onedark" width="40%" alt="mohamed-abdelfattah" />
     <img src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&theme=onedark&line_height=27" alt="3mohamed-abdelfattah" width="50%" />
 </div>
