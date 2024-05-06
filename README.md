@@ -34,16 +34,16 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
-<div align="center">
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,cpp,java,react,py,androidstudio,atom,bootstrap,firebase,git,github,ide,ktor,linux,netlify,sass,vscode,blender,figma,adobe)](https://skillicons.dev)
 <br/>
 
 
-</div>
 
 
- ## <img width="45" align="center alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills
+
+ ## <img width="45" align="center" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills
 
 |       **Repo**            |   **Language** |
 | ------------------------- | ---------------|
