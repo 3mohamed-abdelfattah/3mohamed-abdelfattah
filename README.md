@@ -68,3 +68,4 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 <h1 align="center" color="green">
     It was nice meeting you! 🙌
 </h1>
+$${\color{red}It was nice meeting \space \color{lightblue} you!🙌}$$	
