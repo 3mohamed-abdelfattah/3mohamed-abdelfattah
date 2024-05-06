@@ -56,11 +56,11 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&layout=compact&hide_border=true&theme=onedark" width="40%" alt="mohamed-abdelfattah" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=onedark" width="40%" alt="mohamed-abdelfattah" />
+    <img src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&theme=onedark&line_height=27" alt="3mohamed-abdelfattah" />
 </div>
 
 <a href="https://github.com/3mohamed-abdelfattah">
-  <img src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&theme=onedark&line_height=27" alt="3mohamed-abdelfattah" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=onedark" width="40%" alt="mohamed-abdelfattah" />
 </a>
 
 
