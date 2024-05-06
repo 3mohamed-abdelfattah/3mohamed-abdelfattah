@@ -65,6 +65,6 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 </a>
 </div>
 
-<h1 align="center" color="#1F5357">
+<h1 align="center" color="green">
     It was nice meeting you! 🙌
 </h1>
