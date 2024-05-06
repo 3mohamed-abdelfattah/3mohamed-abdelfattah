@@ -42,14 +42,14 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 </div>
 
- 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills
- <div align="center">
+
+ ## <img width="45" align="center alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills
+
 |       **Repo**            |   **Language** |
 | ------------------------- | ---------------|
 |   [Vritual_Medical_Project](https://github.com/3mohamed-abdelfattah/Virtual)  |  **React.js** |
 |   [Kotlin_Zero_To_Hero](https://github.com/3mohamed-abdelfattah/KotlinCourse)  |  **Kotlin** |
- </div>
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
 
