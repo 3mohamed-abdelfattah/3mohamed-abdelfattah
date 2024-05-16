@@ -48,6 +48,13 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 | ------------------------- | ---------------|
 |   [Vritual_Medical_Project](https://github.com/3mohamed-abdelfattah/Virtual)  |  **React.js** |
 |   [Kotlin_Zero_To_Hero](https://github.com/3mohamed-abdelfattah/KotlinCourse)  |  **Kotlin** |
+|   [Simple-Chess-Game](https://github.com/3mohamed-abdelfattah/Simple-Chess-Game)  |  **Python** |
+|   [CatHub_SignUp](https://github.com/3mohamed-abdelfattah/CatHub_SignUp)  |  **Kotlin** |
+|   [First_Library](https://github.com/3mohamed-abdelfattah?tab=repositories)  |  **Kotlin** |
+|   [Little_Lemon_Project](https://github.com/3mohamed-abdelfattah/Little_Lemon_Project)  |  **Kotlin** |
+|   [Flutter-Restaurant-Project](https://github.com/3mohamed-abdelfattah/Flutter-Project)  |  **Flutter** |
+|   [Practice_Android_Studio](https://github.com/3mohamed-abdelfattah/Practice_Android_Studio)  |  **Kotlin** |
+
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
