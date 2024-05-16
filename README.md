@@ -46,7 +46,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 |       **Repo**            |   **Language** |
 | ------------------------- | ---------------|
-|   [Vritual_Medical_Project](https://github.com/3mohamed-abdelfattah/Virtual)  |  **React.js** |
+|   [Vritual_Medical_Project](https://github.com/3mohamed-abdelfattah/Virtual)  |  **MERN** |
 |   [Kotlin_Zero_To_Hero](https://github.com/3mohamed-abdelfattah/KotlinCourse)  |  **Kotlin** |
 |   [Simple-Chess-Game](https://github.com/3mohamed-abdelfattah/Simple-Chess-Game)  |  **Python** |
 |   [CatHub_SignUp](https://github.com/3mohamed-abdelfattah/CatHub_SignUp)  |  **Kotlin** |
