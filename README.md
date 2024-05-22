@@ -35,7 +35,12 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
 
  
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,cpp,java,py,html,css,react,bootstrap,sass,flutter,androidstudio,ktor,idea,androidstudio,atom,vscode,firebase,sqlite,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin,cpp,java,py,html,css,react,bootstrap,sass,flutter,androidstudio,ktor,idea,androidstudio,atom,vscode,firebase,sqlite,firebase,gradle,git,github,linux,figma,blender,ai,pr)](https://skillicons.dev)
+
+
+
+
+
  [![My Skills](https://skillicons.dev/icons?i=js,html,CSS,,idea,kotlin,firebase,sqlite,gradle,cpp,java,react,py,androidstudio,atom,bootstrap,firebase,bash,git,github,ide,ktor,linux,netlify,sass,atom,vscode,blender,figma&theme=light,ai,pr,flutter,linux,postman,stackoverflow)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,CSS,,idea,kotlin,firebase,sqlite,gradle,cpp,java,react,py,androidstudio,atom,bootstrap,firebase,bash,git,github,ide,ktor,linux,netlify,sass,atom,vscode,blender,figma&theme=light,ai,pr,flutter,linux,postman,stackoverflow)](https://skillicons.dev)
