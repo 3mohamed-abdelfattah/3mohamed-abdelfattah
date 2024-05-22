@@ -44,7 +44,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills
- <div width="100%">
+
 
 |       **Repo**            |   **Language** |
 | ------------------------- | ---------------|
@@ -57,7 +57,6 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 |   [Flutter-Restaurant-Project](https://github.com/3mohamed-abdelfattah/Restaurant_APP)  |  **Flutter** |
 |   [Practice_Android_Studio](https://github.com/3mohamed-abdelfattah/Practice_Android_Studio)  |  **Kotlin** |
 
-</div>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
 
