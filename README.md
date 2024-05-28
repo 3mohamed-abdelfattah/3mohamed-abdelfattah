@@ -66,6 +66,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
     <img src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&theme=onedark&line_height=27" alt="3mohamed-abdelfattah" width="50%" />
 </div>
 
+
 <div align="center" >
 <a href="https://github.com/3mohamed-abdelfattah">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=onedark" width="75%" alt="mohamed-abdelfattah" />
@@ -75,3 +76,8 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 <h1 align="center">
      It was nice meeting you!🤝
 </h1>
+
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
