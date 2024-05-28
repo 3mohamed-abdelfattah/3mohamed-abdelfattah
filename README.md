@@ -35,7 +35,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
 
  
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,cpp,java,py,html,css,react,bootstrap,sass,flutter,ktor,idea,androidstudio,atom,vscode,firebase,sqlite,reactivex,gradle,git,github,linux,figma,blender,ai,pr,postman,stackoverflow,bash,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin,cpp,java,py,html,css,react,bootstrap,flutter,ktor,idea,androidstudio,atom,vscode,firebase,sqlite,reactivex,gradle,git,github,linux,figma,blender,ai,pr,postman,stackoverflow,bash,netlify)](https://skillicons.dev)
 
 <br/>
 
