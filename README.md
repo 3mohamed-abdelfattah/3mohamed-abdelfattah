@@ -43,7 +43,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 
 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" />
 
 
 |       **Repo**            |   **Language** |
