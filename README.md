@@ -1,7 +1,8 @@
 ![1544118575312](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)
 
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="35" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=0e75b6&style=flat" alt="3mohamed-abdelfattah" /> </p>
 
 
@@ -32,7 +33,8 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 </p>
 
 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="35" />
+
 
  
 [![My Skills](https://skillicons.dev/icons?i=js,kotlin,cpp,java,py,html,css,react,bootstrap,flutter,ktor,idea,androidstudio,atom,vscode,firebase,sqlite,reactivex,gradle,git,github,linux,figma,blender,ai,pr,postman,stackoverflow,bash,netlify)](https://skillicons.dev)
@@ -43,7 +45,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 
 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" />
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="35" />
 
 
 |       **Repo**            |   **Language** |
@@ -78,7 +80,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 </div>
 
 <h1 align="center">
-     It was nice meeting you!<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" />
+     It was nice meeting you!<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35" />
 </h1>
 
 
