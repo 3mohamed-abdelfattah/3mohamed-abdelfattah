@@ -78,7 +78,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 </div>
 
 <h1 align="center">
-     It was nice meeting you!<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" />
+     It was nice meeting you!<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="60" />
 </h1>
 
 
