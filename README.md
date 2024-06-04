@@ -45,7 +45,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 
 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="35" />
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Programming basics, experience, and skills <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="30" />
 
 
 |       **Repo**            |   **Language** |
@@ -82,6 +82,10 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 <h1 align="center">
      It was nice meeting you!<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" />
 </h1>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<br><br>
 
 
 <p align="center">
