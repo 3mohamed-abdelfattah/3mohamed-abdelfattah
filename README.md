@@ -9,7 +9,7 @@
 
 ### Hey... 
 <p>
-Hello, I'm Mohamed Mohamed, a Mobile Developer, from EGYPT. Seeking internship opportunities or development projects to elevate my skills in computer science and programming techniques, ready to explore the challenges of modern technology.🚀
+Hello, I'm Mohamed Mohamed, a Cross-Platform Software Developer, from EGYPT. Seeking internship opportunities or development projects to elevate my skills in computer science and programming techniques, ready to explore the challenges of modern technology.🚀
 
 Beyond my professional roles, I actively contribute to the open-source community, showcasing extensive expertise in various tech domains such as Android Native, Web Development, JavaScript, Kotlin, and more.
 
