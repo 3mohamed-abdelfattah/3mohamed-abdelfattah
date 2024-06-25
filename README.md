@@ -51,13 +51,11 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 |       **Repo**            |   **Language** |
 | ------------------------- | ---------------|
 |   [CareHub](https://github.com/3mohamed-abdelfattah/Virtual_Project)  |  **MERN** |
-|   [Kotlin_Zero_To_Hero](https://github.com/3mohamed-abdelfattah/KotlinCourse)  |  **Kotlin** |
+|   [Little_Lemon_Project](https://github.com/3mohamed-abdelfattah/Little_Lemon_Project)  |  **Kotlin** |
+|   [Flutter-Restaurant-Project](https://github.com/3mohamed-abdelfattah/Restaurant_APP)  |  **Flutter** |
 |   [Simple-Chess-Game](https://github.com/3mohamed-abdelfattah/Simple-Chess-Game)  |  **Python** |
 |   [CatHub_SignUp](https://github.com/3mohamed-abdelfattah/CatHub_SignUp)  |  **Kotlin** |
 |   [First_Library](https://github.com/3mohamed-abdelfattah?tab=repositories)  |  **Kotlin** |
-|   [Little_Lemon_Project](https://github.com/3mohamed-abdelfattah/Little_Lemon_Project)  |  **Kotlin** |
-|   [Flutter-Restaurant-Project](https://github.com/3mohamed-abdelfattah/Restaurant_APP)  |  **Flutter** |
-|   [Practice_Android_Studio](https://github.com/3mohamed-abdelfattah/Practice_Android_Studio)  |  **Kotlin** |
 |   [Kotlin-Coroutines](https://github.com/3mohamed-abdelfattah/Kotlin-Coroutines)  |  **Kotlin** |
 |   [Handle_API_Android](https://github.com/3mohamed-abdelfattah/API)  |  **Kotlin** |
 |   [ReactiveX](https://github.com/3mohamed-abdelfattah/ReactiveX)  |  **Kotlin** |
