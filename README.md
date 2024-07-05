@@ -71,13 +71,9 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 </div>
 
 
-<a href="https://github.com/3mohamed-abdelfattah"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/3mohamed-abdelfattah"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-
 <div align="center" >
 <a href="https://github.com/3mohamed-abdelfattah">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=react&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=onedar&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
 </a>
 </div>
 
@@ -88,3 +84,101 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 <br><br>
+
+
+
+
+
+# GitHub Streak Stats
+
+Here are various themes for my GitHub Readme Streak Stats:
+
+### Default Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=default&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Dark Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=dark&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### High Contrast Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=highcontrast&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Radical Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=radical&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Merko Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=merko&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Gruvbox Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=gruvbox&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Tokyo Night Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=tokyonight&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### One Dark Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=onedark&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Cobalt Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=cobalt&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Synthwave Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=synthwave&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Dracula Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=dracula&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Prussian Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=prussian&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Monokai Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=monokai&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Vue Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=vue&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Vue Dark Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=vue-dark&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Shades of Purple Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=shades-of-purple&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Nord Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=nord&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Blueberry Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=blueberry&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Blue Green Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=blue-green&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Algolia Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=algolia&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Great Gatsby Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=great-gatsby&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Darcula Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=darcula&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Bear Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=bear&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Solarized Dark Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=solarized-dark&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Solarized Light Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=solarized-light&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Chartreuse Dark Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=chartreuse-dark&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### GitHub Dark Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=github-dark&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Gotham Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=gotham&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Material Palenight Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=material-palenight&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+
+### Gray White Theme
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=graywhite&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
