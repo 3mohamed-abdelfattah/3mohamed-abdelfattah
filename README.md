@@ -16,10 +16,9 @@ Beyond my professional roles, I actively contribute to the open-source community
 My journey reflects a commitment to continuous learning, and I harbor a great ambition to further develop my skills in a collaborative environment. Engaging with all facets of the development lifecycle, my work is centered on crafting user-focused, innovative solutions, and delivering clean code through effective teamwork.
 </p>
 
-
-
 <h3 align="center">
-[Portfolio](https://3mohamed-abdelfattah.github.io/Portfolio/)
+  
+  Check out my [Portfolio](https://3mohamed-abdelfattah.github.io/Portfolio/)!
 </h3>
 
 <h1 align="center">
