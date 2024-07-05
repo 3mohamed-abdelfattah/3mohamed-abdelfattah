@@ -71,6 +71,10 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 </div>
 
 
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
+
 <div align="center" >
 <a href="https://github.com/3mohamed-abdelfattah">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=onedark" width="75%" alt="mohamed-abdelfattah" />
