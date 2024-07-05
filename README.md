@@ -19,7 +19,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 
 <h3 align="center">
-  Check out my [Portfolio](https://3mohamed-abdelfattah.github.io/Portfolio/)
+[Portfolio](https://3mohamed-abdelfattah.github.io/Portfolio/)
 </h3>
 
 <h1 align="center">
