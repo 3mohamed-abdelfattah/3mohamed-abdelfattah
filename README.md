@@ -77,7 +77,7 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 
 <div align="center" >
 <a href="https://github.com/3mohamed-abdelfattah">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=onedark&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mohamed-abdelfattah&hide_border=true&theme=react&bg_color=0D1117" width="75%" alt="mohamed-abdelfattah" />
 </a>
 </div>
 
