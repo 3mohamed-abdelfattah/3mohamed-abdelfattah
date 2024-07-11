@@ -7,7 +7,7 @@
 
 
 
-### Hey... 
+### 🌟 Greetings, World of Innovation!
 <p>
 Hello, I'm Mohamed Mohamed, a Cross-Platform Software Developer, from EGYPT. Seeking internship opportunities or development projects to elevate my skills in computer science and programming techniques, ready to explore the challenges of modern technology.🚀
 
