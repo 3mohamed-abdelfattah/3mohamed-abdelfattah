@@ -61,8 +61,12 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 |   [Simple Chess](https://github.com/3mohamed-abdelfattah/Simple-Chess-Game)  | Web Application To Play Chess With AI ♟️🤖 | **Python** |
 |   [CatHub SignUp](https://github.com/3mohamed-abdelfattah/CatHub_SignUp)  | Simple UI Register Page With Animation 🐈‍⬛ | **Kotlin** |
 |   [Kotlin Coroutines](https://github.com/3mohamed-abdelfattah/Kotlin-Coroutines)  | Kotlin Coroutines Resources 👾 |  **Kotlin** |
-|   [Room Database](https://github.com/3mohamed-abdelfattah/Room_Database)  | How To Use Room Database in Android Application 📲 | **Kotlin** |
+|   [Firebase Authentication ](https://github.com/3mohamed-abdelfattah/Firebase-Email-Authentication)  | Firebase Authentication With Email 🔥 | **Kotlin** |
 |   [Simple Ui](https://github.com/3mohamed-abdelfattah/JetPack-Compose)  | Jetpack Compose for building Android UIs 💥 |  **Kotlin** |
+|   [ToDo List](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Task)  | Simple ToDo List Built with Vanilla JavaScript 📃 |  **JavaScript** |
+|   [Screw Game Card](https://github.com/3mohamed-abdelfattah/Screw-Card)  | Screw Game Points Tracker 🃏 |  **HTML** |
+|   [Portfolio](https://github.com/3mohamed-abdelfattah/Portfolio)  | Check My Portfolio !! 🤵 |  **HTML,CSS,JS** |
+|   [Little Lemon Menu](https://github.com/3mohamed-abdelfattah/Little-Lemon-Menu)  | Implementation For Sorting, Searching, Filtering, Opening Products 🍽️ |  **Kotlin** |
 
 
 
