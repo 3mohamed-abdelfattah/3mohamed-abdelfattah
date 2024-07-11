@@ -55,14 +55,14 @@ My journey reflects a commitment to continuous learning, and I harbor a great am
 |       **Repo**            |   **Description** |  **Language**  |
 | ------------------------- | ----------------- | -------------- |
 |   [CareHub](https://github.com/3mohamed-abdelfattah/Virtual_Project)  | Revolutionizing Healthcare Through Technology 🌐🚀 | **MERN** |
-|   [BrandStep](https://github.com/3mohamed-abdelfattah/CodeAlpha-eCommerce)  |  Revolutionizing Healthcare Through Technology 🌐🚀 | **Kotlin** |
-|   [Little Lemon](https://github.com/3mohamed-abdelfattah/Little_Lemon_Project)  | Revolutionizing Healthcare Through Technology 🌐🚀 | **Kotlin** |
-|   [Pizza Slice](https://github.com/3mohamed-abdelfattah/Restaurant_APP)  | Revolutionizing Healthcare Through Technology 🌐🚀 | **Flutter** |
-|   [Simple Chess](https://github.com/3mohamed-abdelfattah/Simple-Chess-Game)  | Revolutionizing Healthcare Through Technology 🌐🚀 | **Python** |
-|   [CatHub SignUp](https://github.com/3mohamed-abdelfattah/CatHub_SignUp)  | Revolutionizing Healthcare Through Technology 🌐🚀 | **Kotlin** |
-|   [Kotlin Coroutines](https://github.com/3mohamed-abdelfattah/Kotlin-Coroutines)  | Revolutionizing Healthcare Through Technology 🌐🚀 |  **Kotlin** |
-|   [Room Database](https://github.com/3mohamed-abdelfattah/Room_Database)  | Revolutionizing Healthcare Through Technology 🌐🚀 | **Kotlin** |
-|   [Simple Ui](https://github.com/3mohamed-abdelfattah/JetPack-Compose)  | Revolutionizing Healthcare Through Technology 🌐🚀 |  **Kotlin** |
+|   [BrandStep](https://github.com/3mohamed-abdelfattah/CodeAlpha-eCommerce)  | eCommerce app for purchasing the latest and most popular branded shoes and clothing 🛒 | **Kotlin** |
+|   [Little Lemon](https://github.com/3mohamed-abdelfattah/Little_Lemon_Project)  | Simple Restaurant Menu App 🍉 | **Kotlin** |
+|   [Pizza Slice](https://github.com/3mohamed-abdelfattah/Restaurant_APP)  | UI Restaurant Menu And Orders App 🍕 | **Flutter** |
+|   [Simple Chess](https://github.com/3mohamed-abdelfattah/Simple-Chess-Game)  | Web Application To Play Chess With AI ♟️🤖 | **Python** |
+|   [CatHub SignUp](https://github.com/3mohamed-abdelfattah/CatHub_SignUp)  | Simple UI Register Page With Animation 🐈‍⬛ | **Kotlin** |
+|   [Kotlin Coroutines](https://github.com/3mohamed-abdelfattah/Kotlin-Coroutines)  | Kotlin Coroutines Resources 👾 |  **Kotlin** |
+|   [Room Database](https://github.com/3mohamed-abdelfattah/Room_Database)  | How To Use Room Database in Android Application 📲 | **Kotlin** |
+|   [Simple Ui](https://github.com/3mohamed-abdelfattah/JetPack-Compose)  | Jetpack Compose for building Android UIs 💥 |  **Kotlin** |
 
 
 
