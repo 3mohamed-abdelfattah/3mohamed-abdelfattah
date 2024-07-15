@@ -24,9 +24,9 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 </h3>
 
 <div align="center">
-<h2> Check My CV 📁 || vCard 🤵 </h2>
+<h2> CV 📁 || vCard 🤵 </h2>
   <img src="https://github.com/user-attachments/assets/5646e9a6-58c2-4e2c-92fc-7fc112b26567" width="200" />
-  <img src="https://github.com/user-attachments/assets/2734f7b3-2d36-42b5-b434-1c4c2010757c" width="150"/>
+  <img src="https://github.com/user-attachments/assets/2734f7b3-2d36-42b5-b434-1c4c2010757c" width="200"/>
 </div>
 
 <h1 align="center">
