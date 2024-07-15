@@ -5,7 +5,6 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5646e9a6-58c2-4e2c-92fc-7fc112b26567" width="200" />
-  <img src="https://github.com/user-attachments/assets/2bfec77e-b33a-4940-8c34-8b42d1956383" width="200" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=0e75b6&style=flat" alt="3mohamed-abdelfattah" /> </p>
@@ -42,6 +41,10 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
   </a>
 </div>
 </p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2bfec77e-b33a-4940-8c34-8b42d1956383" width="100" />
+</div>
+
 
 
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
