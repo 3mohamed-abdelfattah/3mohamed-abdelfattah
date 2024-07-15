@@ -31,7 +31,7 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
   Let's Connect and have a Chat!💬
 </h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2bfec77e-b33a-4940-8c34-8b42d1956383"/>
+  <img src="https://github.com/user-attachments/assets/2bfec77e-b33a-4940-8c34-8b42d1956383" width="150"/>
 </div>
 <p align="center">
 <div align="center">
