@@ -31,8 +31,7 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
   Let's Connect and have a Chat!💬
 </h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2bfec77e-b33a-4940-8c34-8b42d1956383" width="150"/>
-</div>
+  <img src="https://github.com/user-attachments/assets/2734f7b3-2d36-42b5-b434-1c4c2010757c" width="150"/>
 <p align="center">
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-devmaster/" target="_blank">
@@ -43,6 +42,7 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
   </a>
 </div>
 </p>
+</div>
 
 
 
