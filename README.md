@@ -18,19 +18,21 @@
 Join me as I continue to explore the ever-evolving tech landscape, pushing boundaries and achieving excellence. Let's build something amazing together! 💡
 </p>
 
-<div align="center">
-<h2> Check My CV 🤵</h2>  <img src="https://github.com/user-attachments/assets/5646e9a6-58c2-4e2c-92fc-7fc112b26567" width="200" />
-</div>
-
 <h3 align="center">
   
   Check out my [Portfolio](https://3mohamed-abdelfattah.github.io/Portfolio/)!
 </h3>
 
+<div align="center">
+<h2> Check My CV 🤵</h2>  <img src="https://github.com/user-attachments/assets/5646e9a6-58c2-4e2c-92fc-7fc112b26567" width="200" />
+</div>
+
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2bfec77e-b33a-4940-8c34-8b42d1956383"/>
+</div>
 <p align="center">
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-devmaster/" target="_blank">
@@ -39,12 +41,9 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
   <a href="https://wa.me/+201005548673" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo" />
   </a>
-    <img src="https://github.com/user-attachments/assets/2bfec77e-b33a-4940-8c34-8b42d1956383" width="100" />
 </div>
 </p>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/2bfec77e-b33a-4940-8c34-8b42d1956383" width="100" />
-</div>
+
 
 
 
