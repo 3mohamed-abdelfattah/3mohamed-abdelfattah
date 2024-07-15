@@ -30,19 +30,17 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/2734f7b3-2d36-42b5-b434-1c4c2010757c" width="150"/>
 <p align="center">
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-devmaster/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
+    <img src="https://github.com/user-attachments/assets/2734f7b3-2d36-42b5-b434-1c4c2010757c" width="150"/>
   <a href="https://wa.me/+201005548673" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo" />
   </a>
 </div>
 </p>
-</div>
 
 
 
