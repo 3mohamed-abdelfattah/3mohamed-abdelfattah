@@ -7,13 +7,13 @@
 
 
 
-### 🌟 Greetings, World of Innovation!
+### 🌟 Greetings, World Of Innovation!
 <p>
 👋 Hello! I'm Mohamed Mohamed, a Cross-Platform Software Developer hailing from Egypt. 🚀 I'm actively seeking internship opportunities or development projects that will propel my skills in computer science and programming to new heights. Eager to tackle the challenges of modern technology, I am on a mission to innovate and excel.
 
-✨ Beyond my professional endeavors, I am a contributor to the open-source community, where I leverage my expertise in Android Development, Web Development, JavaScript, Kotlin, and more.
+✨ Beyond my professional endeavors, I contribute to the open-source community, leveraging my expertise in Android Development, Web Development, JavaScript, Kotlin, and more.
 
-📚 My journey is one of relentless learning and growth. where I can engage with all facets of the development lifecycle. My focus is on creating user-centric, innovative solutions and delivering clean, efficient code through effective teamwork.
+📚 My journey is one of relentless learning and growth. where I can engage with all facets of the development lifecycle. I focus on creating user-centric, innovative solutions and delivering clean, efficient code through effective teamwork.
 
 Join me as I continue to explore the ever-evolving tech landscape, pushing boundaries and achieving excellence. Let's build something amazing together! 💡
 </p>
