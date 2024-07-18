@@ -21,9 +21,10 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 <h3 align="center">
   
   Check out my [Portfolio](https://3mohamed-abdelfattah.github.io/Portfolio/)!
+    <img align="right" src="https://github.com/user-attachments/assets/5646e9a6-58c2-4e2c-92fc-7fc112b26567" width="200" />
+
 </h3>
 
-  <img align="right" src="https://github.com/user-attachments/assets/5646e9a6-58c2-4e2c-92fc-7fc112b26567" width="200" />
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
