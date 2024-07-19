@@ -60,7 +60,7 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 | ------------------------- | ----------------- | -------------- |
 |   [CareHub](https://github.com/3mohamed-abdelfattah/Virtual_Project)  | Revolutionizing Healthcare Through Technology 🌐🚀 | **MERN** |
 |   [FitWave](https://github.com/3mohamed-abdelfattah/FitWave)  | Explore a wide range of workout plans, personalized routines, and health tips designed to help you achieve your fitness goals 💪 | **Kotlin** |
-|   [BrandStep](https://github.com/3mohamed-abdelfattah/BrandStepe)  | eCommerce app for purchasing the latest and most popular branded shoes and clothing 🛒 | **Kotlin** |
+|   [BrandStep](https://github.com/3mohamed-abdelfattah/BrandStep)  | eCommerce app for purchasing the latest and most popular branded shoes and clothing 🛒 | **Kotlin** |
 |   [Little Lemon](https://github.com/3mohamed-abdelfattah/Little_Lemon_Project)  | Simple Restaurant Menu App 🍉 | **Kotlin** |
 |   [Pizza Slice](https://github.com/3mohamed-abdelfattah/Restaurant_APP)  | UI Restaurant Menu And Orders App 🍕 | **Flutter** |
 |   [ToDoWiz](https://github.com/3mohamed-abdelfattah/ToDoWiz)  | MVVM Application for iOS and Android with Compose Multiplatform in Kotlin 📃 | **Kotlin Multiplatform** |
