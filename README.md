@@ -5,8 +5,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=0e75b6&style=flat" alt="3mohamed-abdelfattah" /> </p>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mohamed-devmaster" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/mohamed-devmaster?trk=profile-badge">Mohamed Mohamed</a></div>
-
 ### 🌟 Greetings, World Of Innovation!
 <p>
 👋 Hello! I'm Mohamed Mohamed, a Cross-Platform Software Developer hailing from Egypt. 🚀 I'm actively seeking internship opportunities or development projects that will propel my skills in computer science and programming to new heights. Eager to tackle the challenges of modern technology, I am on a mission to innovate and excel.
