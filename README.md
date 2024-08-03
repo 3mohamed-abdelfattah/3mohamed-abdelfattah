@@ -70,7 +70,7 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 |   [Simple Ui](https://github.com/3mohamed-abdelfattah/JetPack-Compose)  | Jetpack Compose for building Android UIs 💥 |  **Kotlin** |
 |   [ToDo List](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Task)  | Simple ToDo List Built with Vanilla JavaScript 📃 |  **JavaScript** |
 |   [Screw Game Card](https://github.com/3mohamed-abdelfattah/Screw-Card)  | Screw Game Points Tracker 🃏 |  **HTML** |
-|   [Portfolio](https://3mohamed-abdelfattah.github.io/Portfolio-ITI/)  | Check My Portfolio !! 🤵 |  **HTML,CSS,JS** |
+|   [Portfolio](https://github.com/3mohamed-abdelfattah/Portfolio-ITI)  | Check My Portfolio !! 🤵 |  **React JS** |
 |   [Little Lemon Menu](https://github.com/3mohamed-abdelfattah/Little-Lemon-Menu)  | Implementation For Sorting, Searching, Filtering, Opening Products 🍽️ |  **Kotlin** |
 |   [LittleLemon Menu Editor](https://github.com/3mohamed-abdelfattah/LittleLemon-Menu-Editor)  | Uses Room Persistence To Handle Local Storage of Menu Items in SQLite Database 🎈 |  **Kotlin** |
 
