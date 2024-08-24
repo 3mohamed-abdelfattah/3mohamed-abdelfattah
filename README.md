@@ -56,20 +56,22 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 |       **Repo**            |   **Description** |  **Language**  |
 | ------------------------- | ----------------- | -------------- |
+|   [Little Lemon](https://github.com/3mohamed-abdelfattah/Little-Limon)  | Full Professional Project Under Meta's Supervision 🍋🪙 | **Kotlin** |
 |   [CareHub](https://github.com/3mohamed-abdelfattah/Virtual_Project)  | Revolutionizing Healthcare Through Technology 🌐🚀 | **MERN** |
 |   [FitWave](https://github.com/3mohamed-abdelfattah/FitWave)  | Explore a wide range of workout plans, personalized routines, and health tips designed to help you achieve your fitness goals 💪 | **Kotlin** |
 |   [BrandStep](https://github.com/3mohamed-abdelfattah/BrandStep)  | eCommerce app for purchasing the latest and most popular branded shoes and clothing 🛒 | **Kotlin** |
-|   [Little Lemon](https://github.com/3mohamed-abdelfattah/Little-Limon)  | Full Professional Project Under Meta's Supervision 🪙 | **Kotlin** |
-|   [Little-Lemon-UI](https://github.com/3mohamed-abdelfattah/Little-Lemon-UI)  | Simple Restaurant Menu App 🍉 | **Kotlin** |
-|   [Pizza Slice](https://github.com/3mohamed-abdelfattah/Restaurant_APP)  | UI Restaurant Menu And Orders App 🍕 | **Flutter** |
+|   [Weather Wise](https://github.com/3mohamed-abdelfattah/WeatherWise)  | Weather forecasting that displays hourly weather updates, current location, temperature, and weather conditions ☁️ | **JavaScript** |
+|   [Egypt ID](https://github.com/3mohamed-abdelfattah/Egypt-ID)  | Allows users to input their Egyptian national ID number and extract information such as their city, date of birth, and gender. 💳 | **ReactJs(Vite)** |
 |   [ToDoWiz](https://github.com/3mohamed-abdelfattah/ToDoWiz)  | MVVM Application for iOS and Android with Compose Multiplatform in Kotlin 📃 | **Kotlin Multiplatform** |
+|   [Pizza Slice](https://github.com/3mohamed-abdelfattah/Restaurant_APP)  | UI Restaurant Menu And Orders App 🍕 | **Flutter** |
 |   [Calculator](https://github.com/3mohamed-abdelfattah/Calculator)  | Simple Calculator Application Built Using Kotlin 🧮 | **Kotlin** |
+|   [Portfolio](https://github.com/3mohamed-abdelfattah/Portfolio-ITI)  | Check My Portfolio !! 🤵 |  **React JS** |
+|   [Little-Lemon-UI](https://github.com/3mohamed-abdelfattah/Little-Lemon-UI)  | Simple Restaurant Menu App 🍉 | **Kotlin** |
 |   [Kotlin Coroutines](https://github.com/3mohamed-abdelfattah/Kotlin-Coroutines)  | Kotlin Coroutines Resources 👾 |  **Kotlin** |
 |   [Firebase Authentication ](https://github.com/3mohamed-abdelfattah/Firebase-Email-Authentication)  | Firebase Authentication With Email 🔥 | **Kotlin** |
 |   [Simple Ui](https://github.com/3mohamed-abdelfattah/JetPack-Compose)  | Jetpack Compose for building Android UIs 💥 |  **Kotlin** |
 |   [ToDo List](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Task)  | Simple ToDo List Built with Vanilla JavaScript 📃 |  **JavaScript** |
 |   [Screw Game Card](https://github.com/3mohamed-abdelfattah/Screw-Card)  | Screw Game Points Tracker 🃏 |  **HTML** |
-|   [Portfolio](https://github.com/3mohamed-abdelfattah/Portfolio-ITI)  | Check My Portfolio !! 🤵 |  **React JS** |
 |   [Little Lemon Menu](https://github.com/3mohamed-abdelfattah/Little-Lemon-Menu)  | Implementation For Sorting, Searching, Filtering, Opening Products 🍽️ |  **Kotlin** |
 |   [Simple Chess](https://github.com/3mohamed-abdelfattah/Simple-Chess-Game)  | Web Application To Play Chess With AI ♟️🤖 | **Python** |
 |   [CatHub](https://github.com/3mohamed-abdelfattah/CatHub_SignUp)  | Simple UI Register Page With Animation 🐈‍⬛ | **Kotlin** |
