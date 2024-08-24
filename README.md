@@ -66,7 +66,6 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 |   [Pizza Slice](https://github.com/3mohamed-abdelfattah/Restaurant_APP)  | UI Restaurant Menu And Orders App 🍕 | **Flutter** |
 |   [Calculator](https://github.com/3mohamed-abdelfattah/Calculator)  | Simple Calculator Application Built Using Kotlin 🧮 | **Kotlin** |
 |   [Portfolio](https://github.com/3mohamed-abdelfattah/Portfolio-ITI)  | Check My Portfolio !! 🤵 |  **React JS** |
-|   [Little-Lemon-UI](https://github.com/3mohamed-abdelfattah/Little-Lemon-UI)  | Simple Restaurant Menu App 🍉 | **Kotlin** |
 |   [Kotlin Coroutines](https://github.com/3mohamed-abdelfattah/Kotlin-Coroutines)  | Kotlin Coroutines Resources 👾 |  **Kotlin** |
 |   [Firebase Authentication ](https://github.com/3mohamed-abdelfattah/Firebase-Email-Authentication)  | Firebase Authentication With Email 🔥 | **Kotlin** |
 |   [Simple Ui](https://github.com/3mohamed-abdelfattah/JetPack-Compose)  | Jetpack Compose for building Android UIs 💥 |  **Kotlin** |
