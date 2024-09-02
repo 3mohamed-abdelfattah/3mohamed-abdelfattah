@@ -47,7 +47,7 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 <br/>
 
- ## <img width="45" alt="about" src="https://github.com/user-attachments/assets/fb436c8e-6731-4333-a6b2-5499e91a576c"> Repos : Web Projects ...
+ ## <img width="45" alt="about" src="https://github.com/user-attachments/assets/fb436c8e-6731-4333-a6b2-5499e91a576c"> <h2>Repos : Web Projects ...</h2>
 
 
 |       **Repo**            |   **Description** |  **Language**  |
