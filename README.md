@@ -63,15 +63,18 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 |   [Egypt ID](https://github.com/3mohamed-abdelfattah/Egypt-ID)  | Allows users to input their Egyptian national ID number and extract information such as their city, date of birth, and gender. 💳 | **ReactJs(Vite)** |
 |   [Portfolio](https://github.com/3mohamed-abdelfattah/Portfolio-ITI)  | Check My Portfolio !! 🤵 |  **React JS** |
 |   [ToDo List](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Task)  | Simple ToDo List Built with Vanilla JavaScript 📃 |  **JavaScript** |
-|   [Screw Game Card](https://github.com/3mohamed-abdelfattah/Screw-Card)  | Screw Game Points Tracker 🃏 |  **HTML** |
 |   [Simple Chess](https://github.com/3mohamed-abdelfattah/Simple-Chess-Game)  | Web Application To Play Chess With AI ♟️🤖 | **Python** |
+|   [RemasterLabs](https://github.com/3mohamed-abdelfattah/RemasterLabs)  | A collection of 50+ web projects that have been reimagined and remastered. 🕸️ | **HTML, CSS, JavaScript** |
+|   [JavaScript-ITI-Task](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Task)  | Simple ToDo List built with vanilla JavaScript allows users to create, edit, delete, and manage tasks. | **HTML, CSS, JavaScript** |
+|   [Screw Game Card](https://github.com/3mohamed-abdelfattah/Screw-Card)  | Screw Game Points Tracker 🃏 |  **HTML** |
 
 
+<hr/>
 
 
 <div>
   
- ## <img width="45" alt="about" src="https://github.com/user-attachments/assets/edab31c3-dcfc-4a23-a51a-6e27e490c8f4">    Repos : Mobile Projects
+ ## <img width="45" alt="about" src="https://github.com/user-attachments/assets/edab31c3-dcfc-4a23-a51a-6e27e490c8f4">    Repos : Mobile Projects ...
 </div>
 
 
@@ -83,30 +86,45 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 |   [ToDoWiz](https://github.com/3mohamed-abdelfattah/ToDoWiz)  | MVVM Application for iOS and Android with Compose Multiplatform in Kotlin 📃 | **Kotlin Multiplatform** |
 |   [Pizza Slice](https://github.com/3mohamed-abdelfattah/Restaurant_APP)  | UI Restaurant Menu And Orders App 🍕 | **Flutter** |
 |   [Calculator](https://github.com/3mohamed-abdelfattah/Calculator)  | Simple Calculator Application Built Using Kotlin 🧮 | **Kotlin** |
-|   [Kotlin Coroutines](https://github.com/3mohamed-abdelfattah/Kotlin-Coroutines)  | Kotlin Coroutines Resources 👾 |  **Kotlin** |
 |   [Firebase Authentication ](https://github.com/3mohamed-abdelfattah/Firebase-Email-Authentication)  | Firebase Authentication With Email 🔥 | **Kotlin** |
 |   [Simple Ui](https://github.com/3mohamed-abdelfattah/JetPack-Compose)  | Jetpack Compose for building Android UIs 💥 |  **Kotlin** |
 |   [Little Lemon Menu](https://github.com/3mohamed-abdelfattah/Little-Lemon-Menu)  | Implementation For Sorting, Searching, Filtering, Opening Products 🍽️ |  **Kotlin** |
 |   [CatHub](https://github.com/3mohamed-abdelfattah/CatHub_SignUp)  | Simple UI Register Page With Animation 🐈‍⬛ | **Kotlin** |
 |   [LittleLemon Menu Editor](https://github.com/3mohamed-abdelfattah/LittleLemon-Menu-Editor)  | Uses Room Persistence To Handle Local Storage of Menu Items in SQLite Database 🎈 |  **Kotlin** |
-|   [Pizza Slice](https://github.com/3mohamed-abdelfattah/Restaurant_APP)  | UI Restaurant Menu And Orders App 🍕 | **Flutter** |
 
-
+<hr/>
 
 
 <div>
   
- ## <img width="45" alt="about" src="https://github.com/user-attachments/assets/54a5c09b-5c87-4e2a-ada8-d2e0c64ea828">    Repos : Programming, Courses, Extensions and Libraries
+ ## <img width="45" alt="about" src="https://github.com/user-attachments/assets/54a5c09b-5c87-4e2a-ada8-d2e0c64ea828">    Repos : Programming, Courses, Extensions and Libraries ...
 </div>
 
 
 |       **Repo**            |   **Description** |  **Language**  |
 | ------------------------- | ----------------- | -------------- |
+|   [LeetCode-Problem-Solutions](https://github.com/3mohamed-abdelfattah/LeetCode-Problem-Solutions)  | A collection of my LeetCode problem solutions. 📃 |  **JS & Kotlin** |
+|   [Algorithms-DataStructures](https://github.com/3mohamed-abdelfattah/Algorithms-DataStructures)  | Implement Algorithms and Data Structures. 👨‍💻 |  **JavaScript** |
+|   [React-Native](https://github.com/3mohamed-abdelfattah/React-Native)  | React Native Course Materials [ META ] |  **React Native** |
+|   [React.js](https://github.com/3mohamed-abdelfattah/React.js)  | React.js Course Materials [ META ] |  **React.js** |
+|   [MongoDB](https://github.com/3mohamed-abdelfattah/MongoDB)  | MongoDB Comprehensive Guide |  **MongoDB** |
+|   [ES6-ITI-Course](https://github.com/3mohamed-abdelfattah/ES6-ITI-Course)  | ECMAScript Course |  **ECMAScript** |
+|   [JavaScript-ITI-Course](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Course)  | Vanilla JS Course |  **Vanilla JS Course** |
 |   [Kotlin Coroutines](https://github.com/3mohamed-abdelfattah/Kotlin-Coroutines)  | Kotlin Coroutines Resources 👾 |  **Kotlin** |
+|   [Working-With-Data](https://github.com/3mohamed-abdelfattah/Working-With-Data)  | Being able to fetch data from the network, store data in a database as a table, extract the data for use, present the data |  **Kotlin** |
+|   [SQL](https://github.com/3mohamed-abdelfattah/SQL)  | This repository is dedicated to providing comprehensive examples and explanations of SQL commands |  **SQL** |
 |   [Firebase Authentication ](https://github.com/3mohamed-abdelfattah/Firebase-Email-Authentication)  | Firebase Authentication With Email 🔥 | **Kotlin** |
-|   [Simple Ui](https://github.com/3mohamed-abdelfattah/JetPack-Compose)  | Jetpack Compose for building Android UIs 💥 |  **Kotlin** |
-|   [Little Lemon Menu](https://github.com/3mohamed-abdelfattah/Little-Lemon-Menu)  | Implementation For Sorting, Searching, Filtering, Opening Products 🍽️ |  **Kotlin** |
-|   [LittleLemon Menu Editor](https://github.com/3mohamed-abdelfattah/LittleLemon-Menu-Editor)  | Uses Room Persistence To Handle Local Storage of Menu Items in SQLite Database 🎈 |  **Kotlin** |
+|   [My_Library](https://github.com/3mohamed-abdelfattah/My_Library)  | Create & Publish First Library Kotlin JVM [ Local - Global ] |  **Kotlin** |
+|   [Room_Database](https://github.com/3mohamed-abdelfattah/Room_Database)  | This repository contains an example of how to use Room Database in an Android application |  **Kotlin** |
+|   [CreationalPatterns-FactoryPattern](https://github.com/3mohamed-abdelfattah/CreationalPatterns-FactoryPattern)  | Implementation on Creational Patterns - Factory Pattern |  **Kotlin** |
+|   [CreationalPatterns-BuilderPattern](https://github.com/3mohamed-abdelfattah/CreationalPatterns-BuilderPattern)  | Implementation on Creational Patterns - Build Pattern |  **Kotlin** |
+|   [CreationalPatterns-SingletonPattern](https://github.com/3mohamed-abdelfattah/CreationalPatterns-SingletonPattern)  | Implementation on Creational Patterns - Singleton Pattern |  **Kotlin** |
+|   [Architecture-Patterns](https://github.com/3mohamed-abdelfattah/Architecture-Patterns)  | Implementation on MVC | MVB | MVVM in Android |  **Kotlin** |
+|   [Vernam](https://github.com/3mohamed-abdelfattah/Vernam)  | Implementation on Vernam Cipher in Cryptography |  **Python** |
+|   [API](https://github.com/3mohamed-abdelfattah/API)  | Handle API's in Android |  **Kotlin** |
+|   [ReactiveX](https://github.com/3mohamed-abdelfattah/ReactiveX)  | Practice on Reactive Extensions for Async Programming |  **Kotlin** |
+|   [KotlinCourse](https://github.com/3mohamed-abdelfattah/KotlinCourse)  | Learn and Practice on Kotlin |  **Kotlin** |
+|   [Open Source Society University](https://github.com/3mohamed-abdelfattah/computer-science)  | 🎓 Path to a free self-taught education in Computer Science! |  **CS** |
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
