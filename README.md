@@ -48,7 +48,7 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 <br/>
 
 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Repos : Web Projects  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="30" />
+ ## <img width="45" alt="about" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> Repos : Web Projects  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="30" />
 
 
 |       **Repo**            |   **Description** |  **Language**  |
