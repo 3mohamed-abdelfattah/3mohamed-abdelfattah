@@ -56,17 +56,17 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 |       **Repo**            |   **Description** |  **Language**  | **Live** |
 | ------------------------- | ----------------- | -------------- | -------------- |
 |   [XnO](https://github.com/3mohamed-abdelfattah/XnO)  | Tic-Tac-Toe game. It features dynamic gameplay with real-time updates, a scoring system, and a winning combination display.⭕✖️| **ReactJs(Vite)** |[Live](https://xn-o.vercel.app/)|
-|   [Done-it](https://github.com/3mohamed-abdelfattah/Done-it)  | Done-it is a simple and efficient To-Do App designed to help you manage your tasks effectively. ☑️ | **ReactJs(Vite)** | |[Live](https://todo-one-gold.vercel.app/)|
-|   [CloneGPT](https://github.com/3mohamed-abdelfattah/CloneGPT)  |This repository contains a clone of the user interface for ChatGPT, built using React, Vite, and Tailwind CSS. 🤖 | **ReactJs(Vite)** | |[Live](https://3mohamed-abdelfattah.github.io/CloneGPT/)|
+|   [Done-it](https://github.com/3mohamed-abdelfattah/Done-it)  | Done-it is a simple and efficient To-Do App designed to help you manage your tasks effectively. ☑️ | **ReactJs(Vite)** | [Live](https://todo-one-gold.vercel.app/)|
+|   [CloneGPT](https://github.com/3mohamed-abdelfattah/CloneGPT)  |This repository contains a clone of the user interface for ChatGPT, built using React, Vite, and Tailwind CSS. 🤖 | **ReactJs(Vite)** | [Live](https://3mohamed-abdelfattah.github.io/CloneGPT/)|
 |   [CareHub](https://github.com/3mohamed-abdelfattah/Virtual_Project)  | Revolutionizing Healthcare Through Technology 🌐🚀 | **MERN** |
-|   [MAIZ](https://github.com/3mohamed-abdelfattah/MAIZ)  | MAIZ is a modern, fully responsive website designed for a Saudi cuisine restaurant. 🍽️ | **ReactJs(Vite)** | |[Live](https://3mohamed-abdelfattah.github.io/MAIZ/)|
-|   [Weather Wise](https://github.com/3mohamed-abdelfattah/WeatherWise)  | Weather forecasting that displays hourly weather updates, current location, temperature, and weather conditions ☁️ | **JavaScript** | |[Live](https://3mohamed-abdelfattah.github.io/WeatherWise/)|
-|   [Egypt ID](https://github.com/3mohamed-abdelfattah/Egypt-ID)  | Allows users to input their Egyptian national ID number and extract information such as their city, date of birth, and gender. 💳 | **ReactJs(Vite)** | |[Live](https://3mohamed-abdelfattah.github.io/Egypt-ID/)|
-|   [Portfolio](https://github.com/3mohamed-abdelfattah/Portfolio-ITI)  | Check My Portfolio !! 🤵 |  **React JS** | |[Live](https://3mohamed-abdelfattah.github.io/Portfolio-ITI/)|
-|   [ToDo List](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Task)  | Simple ToDo List Built with Vanilla JavaScript 📃 |  **JavaScript** | |[Live](https://3mohamed-abdelfattah.github.io/JavaScript-ITI-Task/)|
+|   [MAIZ](https://github.com/3mohamed-abdelfattah/MAIZ)  | MAIZ is a modern, fully responsive website designed for a Saudi cuisine restaurant. 🍽️ | **ReactJs(Vite)** | [Live](https://3mohamed-abdelfattah.github.io/MAIZ/)|
+|   [Weather Wise](https://github.com/3mohamed-abdelfattah/WeatherWise)  | Weather forecasting that displays hourly weather updates, current location, temperature, and weather conditions ☁️ | **JavaScript** | [Live](https://3mohamed-abdelfattah.github.io/WeatherWise/)|
+|   [Egypt ID](https://github.com/3mohamed-abdelfattah/Egypt-ID)  | Allows users to input their Egyptian national ID number and extract information such as their city, date of birth, and gender. 💳 | **ReactJs(Vite)** | [Live](https://3mohamed-abdelfattah.github.io/Egypt-ID/)|
+|   [Portfolio](https://github.com/3mohamed-abdelfattah/Portfolio-ITI)  | Check My Portfolio !! 🤵 |  **React JS** | [Live](https://3mohamed-abdelfattah.github.io/Portfolio-ITI/)|
+|   [ToDo List](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Task)  | Simple ToDo List Built with Vanilla JavaScript 📃 |  **JavaScript** | [Live](https://3mohamed-abdelfattah.github.io/JavaScript-ITI-Task/)|
 |   [Simple Chess](https://github.com/3mohamed-abdelfattah/Simple-Chess-Game)  | Web Application To Play Chess With AI ♟️🤖 | **Python** |
-|   [RemasterLabs](https://github.com/3mohamed-abdelfattah/RemasterLabs)  | A collection of 50+ web projects that have been reimagined and remastered. 🕸️ | **HTML, CSS, JavaScript** | |[Live](https://3mohamed-abdelfattah.github.io/RemasterLabs/)|
-|   [Screw Game Card](https://github.com/3mohamed-abdelfattah/Screw-Card)  | Screw Game Points Tracker 🃏 |  **HTML** | |[Live](https://3mohamed-abdelfattah.github.io/Screw-Card/)|
+|   [RemasterLabs](https://github.com/3mohamed-abdelfattah/RemasterLabs)  | A collection of 50+ web projects that have been reimagined and remastered. 🕸️ | **HTML, CSS, JavaScript** | [Live](https://3mohamed-abdelfattah.github.io/RemasterLabs/)|
+|   [Screw Game Card](https://github.com/3mohamed-abdelfattah/Screw-Card)  | Screw Game Points Tracker 🃏 |  **HTML** | [Live](https://3mohamed-abdelfattah.github.io/Screw-Card/)|
 
 
 <hr/>
