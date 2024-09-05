@@ -53,8 +53,9 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 </div>
 
 
-|       **Repo**            |   **Description** |  **Language**  |
-| ------------------------- | ----------------- | -------------- |
+|       **Repo**            |   **Description** |  **Language**  | **Live** |
+| ------------------------- | ----------------- | -------------- | -------------- |
+|   [XnO](https://github.com/3mohamed-abdelfattah/XnO)  | Tic-Tac-Toe game. It features dynamic gameplay with real-time updates, a scoring system, and a winning combination display.⭕✖️| **ReactJs(Vite)** |[Live]()|
 |   [Done-it](https://github.com/3mohamed-abdelfattah/Done-it)  | Done-it is a simple and efficient To-Do App designed to help you manage your tasks effectively. ☑️ | **ReactJs(Vite)** |
 |   [CloneGPT](https://github.com/3mohamed-abdelfattah/CloneGPT)  |This repository contains a clone of the user interface for ChatGPT, built using React, Vite, and Tailwind CSS. 🤖 | **ReactJs(Vite)** |
 |   [CareHub](https://github.com/3mohamed-abdelfattah/Virtual_Project)  | Revolutionizing Healthcare Through Technology 🌐🚀 | **MERN** |
