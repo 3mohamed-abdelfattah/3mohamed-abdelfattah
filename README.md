@@ -1,5 +1,5 @@
 ![Artboard](https://github.com/user-attachments/assets/a29388c0-c5b7-457e-9020-4cbc06d8096a)
-745f9d2270)
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  MORE ABOUT ME  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="30" />
 
