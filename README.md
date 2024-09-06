@@ -1,4 +1,4 @@
-![1544118575312](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)
+![Artboard 1](https://github.com/user-attachments/assets/d0b65696-07fd-483a-a0c6-2ffbab3cf992)
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  MORE ABOUT ME  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="30" />
