@@ -51,16 +51,8 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 <br/>
 
-<div> 
-
- ## <img width="45" alt="about" src=""> 
-</div>
-
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/55a3679b-a7b7-42ef-a879-18c9002cf169" alt="Description" style="width: 45px; margin-right: 20px;">
-  <p>Repos : Web Projects ...</p>
-</div>
-
+| ![alt text](https://github.com/user-attachments/assets/55a3679b-a7b7-42ef-a879-18c9002cf169) | Repos : Web Projects ... |
+|:------------------------------------------------------:|----------------------------|
 
 |       **Repo**            |   **Description** |  **Language**  | **Live** |
 | ------------------------- | ----------------- | -------------- | -------------- |
