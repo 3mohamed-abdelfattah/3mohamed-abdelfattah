@@ -1,5 +1,3 @@
-![Artboard](https://github.com/user-attachments/assets/a29388c0-c5b7-457e-9020-4cbc06d8096a)
-
 <div align="center">
 	<br>
 		<img src="https://github.com/user-attachments/assets/4aa1ece5-e87b-4526-8113-33b5371ea14c" width="400px">
