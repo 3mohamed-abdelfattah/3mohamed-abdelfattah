@@ -51,13 +51,12 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 <br/>
 
-| ![alt text](https://github.com/user-attachments/assets/55a3679b-a7b7-42ef-a879-18c9002cf169) | Repos : Web Projects ... |
-|:------------------------------------------------------:|----------------------------|
-
 <table>
   <tr>
-    <td rowspan="12"><img src="https://github.com/user-attachments/assets/55a3679b-a7b7-42ef-a879-18c9002cf169" alt="Description" width="45px"></td>
-    <td rowspan="12"><strong>Repos: Web Projects ...</strong></td>
+    <td><img src="https://github.com/user-attachments/assets/55a3679b-a7b7-42ef-a879-18c9002cf169" alt="Description" width="45px"></td>
+    <td colspan="3"><strong>Repos: Web Projects ...</strong></td>
+  </tr>
+  <tr>
     <td><strong>Repo</strong></td>
     <td><strong>Description</strong></td>
     <td><strong>Language</strong></td>
