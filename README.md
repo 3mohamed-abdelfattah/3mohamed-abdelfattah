@@ -53,11 +53,11 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/47c448c1-59c6-458d-b597-c81c1b9f7621" alt="Description" width="45px"></td>
-    <td colspan="3" align='center'><strong>Web Projects ...</strong></td>
+    <td align='center'><img src="https://github.com/user-attachments/assets/47c448c1-59c6-458d-b597-c81c1b9f7621" alt="Description" width="45px"></td>
+    <td colspan="3" align='center'><strong>Web Development Projects</strong></td>
   </tr>
   <tr>
-    <td><strong>Repo</strong></td>
+    <td><strong>Repository</strong></td>
     <td><strong>Description</strong></td>
     <td><strong>Language</strong></td>
     <td><strong>Live</strong></td>
@@ -141,8 +141,8 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 <table>
   <tr>
-    <td><img width="45" alt="about" src="https://github.com/user-attachments/assets/b2f911cf-dbca-4eea-95d0-4c7a90375a70"></td>
-    <td colspan="2"><strong>Mobile Projects ...</strong></td>
+    <td align='center'><img width="45" alt="about" src="https://github.com/user-attachments/assets/b2f911cf-dbca-4eea-95d0-4c7a90375a70"></td>
+    <td colspan="2" align='center'><strong>Mobile App Development Projects</strong></td>
   </tr>
   <tr>
     <td><strong>Repo</strong></td>
@@ -210,11 +210,30 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 <table>
   <tr>
-    <td><img width="45" alt="about" src="https://github.com/user-attachments/assets/83707d88-3595-44ee-81cb-e83b57de250a"></td>
-    <td colspan="2"><strong>Programming, Courses, Extensions and Libraries ...</strong></td>
+    <td align='center'><img width="45" alt="about" src="https://github.com/user-attachments/assets/b7a7d78b-dc10-4910-869e-a24e621c9902"></td>
+    <td colspan="2" align='center'><strong>Tools, Extensions, Libraries, and Projects Developed to Enhance Developer Efficiency and Speed Up Workflow</strong></td>
   </tr>
   <tr>
-    <td><strong>Repo</strong></td>
+    <td><strong>Repository</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Type</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/ReactProjectStructure">React Project Structure</a></td>
+    <td>Provides a simple and modular structure for quick development. It is designed to help developers get started quickly without spending much time setting up the basic project structure.</td>
+    <td><strong>Project Structure</strong></td>
+  </tr>
+</table>
+
+<hr/>
+
+<table>
+  <tr>
+    <td align='center'><img width="45" alt="about" src="https://github.com/user-attachments/assets/085d17b4-f964-4fb6-8d9b-2a3628b518d7"></td>
+    <td colspan="2" align='center'><strong>Summary of Completed Programming Courses, Fundamentals, and Problem-Solving Skills</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Repository</strong></td>
     <td><strong>Description</strong></td>
     <td><strong>Language</strong></td>
   </tr>
