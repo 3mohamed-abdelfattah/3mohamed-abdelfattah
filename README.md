@@ -53,8 +53,8 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/55a3679b-a7b7-42ef-a879-18c9002cf169" alt="Description" width="45px"></td>
-    <td colspan="3"><strong>Repos: Web Projects ...</strong></td>
+    <td><img src="https://github.com/user-attachments/assets/47c448c1-59c6-458d-b597-c81c1b9f7621" alt="Description" width="45px"></td>
+    <td colspan="3" align='center'><strong>Web Projects ...</strong></td>
   </tr>
   <tr>
     <td><strong>Repo</strong></td>
@@ -139,61 +139,196 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 <hr/>
 
-
-<div>
-  
- ## <img width="45" alt="about" src="https://github.com/user-attachments/assets/edab31c3-dcfc-4a23-a51a-6e27e490c8f4">    Repos : Mobile Projects ...
-</div>
-
-
-|       **Repo**            |   **Description** |  **Language**  |
-| ------------------------- | ----------------- | -------------- |
-|   [Little Lemon](https://github.com/3mohamed-abdelfattah/Little-Limon)  | Full Professional Project Under Meta's Supervision 🍋🪙 | **Kotlin** |
-|   [FitWave](https://github.com/3mohamed-abdelfattah/FitWave)  | Explore a wide range of workout plans, personalized routines, and health tips designed to help you achieve your fitness goals 💪 | **Kotlin** |
-|   [BrandStep](https://github.com/3mohamed-abdelfattah/BrandStep)  | eCommerce app for purchasing the latest and most popular branded shoes and clothing 🛒 | **Kotlin** |
-|   [ToDoWiz](https://github.com/3mohamed-abdelfattah/ToDoWiz)  | MVVM Application for iOS and Android with Compose Multiplatform in Kotlin 📃 | **Kotlin Multiplatform** |
-|   [Pizza Slice](https://github.com/3mohamed-abdelfattah/Restaurant_APP)  | UI Restaurant Menu And Orders App 🍕 | **Flutter** |
-|   [Calculator](https://github.com/3mohamed-abdelfattah/Calculator)  | Simple Calculator Application Built Using Kotlin 🧮 | **Kotlin** |
-|   [Firebase Authentication ](https://github.com/3mohamed-abdelfattah/Firebase-Email-Authentication)  | Firebase Authentication With Email 🔥 | **Kotlin** |
-|   [Simple Ui](https://github.com/3mohamed-abdelfattah/JetPack-Compose)  | Jetpack Compose for building Android UIs 💥 |  **Kotlin** |
-|   [Little Lemon Menu](https://github.com/3mohamed-abdelfattah/Little-Lemon-Menu)  | Implementation For Sorting, Searching, Filtering, Opening Products 🍽️ |  **Kotlin** |
-|   [CatHub](https://github.com/3mohamed-abdelfattah/CatHub_SignUp)  | Simple UI Register Page With Animation 🐈‍⬛ | **Kotlin** |
-|   [LittleLemon Menu Editor](https://github.com/3mohamed-abdelfattah/LittleLemon-Menu-Editor)  | Uses Room Persistence To Handle Local Storage of Menu Items in SQLite Database 🎈 |  **Kotlin** |
+<table>
+  <tr>
+    <td><img width="45" alt="about" src="https://github.com/user-attachments/assets/b2f911cf-dbca-4eea-95d0-4c7a90375a70"></td>
+    <td colspan="2"><strong>Mobile Projects ...</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Repo</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Language</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Little-Limon">Little Lemon</a></td>
+    <td>Full Professional Project Under Meta's Supervision 🍋🪙</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/FitWave">FitWave</a></td>
+    <td>Explore a wide range of workout plans, personalized routines, and health tips designed to help you achieve your fitness goals 💪</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/BrandStep">BrandStep</a></td>
+    <td>eCommerce app for purchasing the latest and most popular branded shoes and clothing 🛒</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/ToDoWiz">ToDoWiz</a></td>
+    <td>MVVM Application for iOS and Android with Compose Multiplatform in Kotlin 📃</td>
+    <td><strong>Kotlin Multiplatform</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Restaurant_APP">Pizza Slice</a></td>
+    <td>UI Restaurant Menu And Orders App 🍕</td>
+    <td><strong>Flutter</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Calculator">Calculator</a></td>
+    <td>Simple Calculator Application Built Using Kotlin 🧮</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Firebase-Email-Authentication">Firebase Authentication</a></td>
+    <td>Firebase Authentication With Email 🔥</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/JetPack-Compose">Simple Ui</a></td>
+    <td>Jetpack Compose for building Android UIs 💥</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Little-Lemon-Menu">Little Lemon Menu</a></td>
+    <td>Implementation For Sorting, Searching, Filtering, Opening Products 🍽️</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/CatHub_SignUp">CatHub</a></td>
+    <td>Simple UI Register Page With Animation 🐈‍⬛</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/LittleLemon-Menu-Editor">LittleLemon Menu Editor</a></td>
+    <td>Uses Room Persistence To Handle Local Storage of Menu Items in SQLite Database 🎈</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+</table>
 
 <hr/>
 
-
-<div>
-  
- ## <img width="45" alt="about" src="https://github.com/user-attachments/assets/54a5c09b-5c87-4e2a-ada8-d2e0c64ea828">    Repos : Programming, Courses, Extensions and Libraries ...
-</div>
-
-
-|       **Repo**            |   **Description** |  **Language**  |
-| ------------------------- | ----------------- | -------------- |
-|   [LeetCode-Problem-Solutions](https://github.com/3mohamed-abdelfattah/LeetCode-Problem-Solutions)  | A collection of my LeetCode problem solutions. 📃 |  **JS & Kotlin** |
-|   [Algorithms-DataStructures](https://github.com/3mohamed-abdelfattah/Algorithms-DataStructures)  | Implement Algorithms and Data Structures. 👨‍💻 |  **JavaScript** |
-|   [React-Native](https://github.com/3mohamed-abdelfattah/React-Native)  | React Native Course Materials [ META ] 📖 |  **React Native** |
-|   [React.js](https://github.com/3mohamed-abdelfattah/React.js)  | React.js Course Materials [ META ] 📖 |  **React.js** |
-|   [MongoDB](https://github.com/3mohamed-abdelfattah/MongoDB)  | MongoDB Comprehensive Guide 📖 |  **MongoDB** |
-|   [ES6-ITI-Course](https://github.com/3mohamed-abdelfattah/ES6-ITI-Course)  | ECMAScript Course 📖 |  **ECMAScript** |
-|   [JavaScript-ITI-Course](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Course)  | Vanilla JS Course 📖 |  **Vanilla JS Course** |
-|   [Kotlin Coroutines](https://github.com/3mohamed-abdelfattah/Kotlin-Coroutines)  | Kotlin Coroutines Resources 👾 |  **Kotlin** |
-|   [Working-With-Data](https://github.com/3mohamed-abdelfattah/Working-With-Data)  | Being able to fetch data from the network, store data in a database as a table, extract the data for use, present the data 📲 |  **Kotlin** |
-|   [SQL](https://github.com/3mohamed-abdelfattah/SQL)  | This repository is dedicated to providing comprehensive examples and explanations of SQL commands 💻 |  **SQL** |
-|   [Firebase Authentication ](https://github.com/3mohamed-abdelfattah/Firebase-Email-Authentication)  | Firebase Authentication With Email 🔥 | **Kotlin** |
-|   [My_Library](https://github.com/3mohamed-abdelfattah/My_Library)  | Create & Publish First Library Kotlin JVM [ Local - Global ] 💥 |  **Kotlin** |
-|   [Room_Database](https://github.com/3mohamed-abdelfattah/Room_Database)  | This repository contains an example of how to use Room Database in an Android application 📲 |  **Kotlin** |
-|   [CreationalPatterns-FactoryPattern](https://github.com/3mohamed-abdelfattah/CreationalPatterns-FactoryPattern)  | Implementation on Creational Patterns - Factory Pattern 👨‍💻 |  **Kotlin** |
-|   [CreationalPatterns-BuilderPattern](https://github.com/3mohamed-abdelfattah/CreationalPatterns-BuilderPattern)  | Implementation on Creational Patterns - Build Pattern 👨‍💻 |  **Kotlin** |
-|   [CreationalPatterns-SingletonPattern](https://github.com/3mohamed-abdelfattah/CreationalPatterns-SingletonPattern)  | Implementation on Creational Patterns - Singleton Pattern 👨‍💻 |  **Kotlin** |
-|   [Architecture-Patterns](https://github.com/3mohamed-abdelfattah/Architecture-Patterns)  | Implementation on MVC | MVB | MVVM in Android 💻 |  **Kotlin** |
-|   [Vernam](https://github.com/3mohamed-abdelfattah/Vernam)  | Implementation on Vernam Cipher in Cryptography 1️⃣ |  **Python** |
-|   [API](https://github.com/3mohamed-abdelfattah/API)  | Handle API's in Android 🔗 |  **Kotlin** |
-|   [ReactiveX](https://github.com/3mohamed-abdelfattah/ReactiveX)  | Practice on Reactive Extensions for Async Programming 📲 |  **Kotlin** |
-|   [KotlinCourse](https://github.com/3mohamed-abdelfattah/KotlinCourse)  | Learn and Practice on Kotlin 🥇 |  **Kotlin** |
-|   [Open Source Society University](https://github.com/3mohamed-abdelfattah/computer-science)  | 🎓 Path to a free self-taught education in Computer Science! |  **CS** |
-
+<table>
+  <tr>
+    <td><img width="45" alt="about" src="https://github.com/user-attachments/assets/83707d88-3595-44ee-81cb-e83b57de250a"></td>
+    <td colspan="2"><strong>Programming, Courses, Extensions and Libraries ...</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Repo</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Language</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/LeetCode-Problem-Solutions">LeetCode-Problem-Solutions</a></td>
+    <td>A collection of my LeetCode problem solutions. 📃</td>
+    <td><strong>JS & Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Algorithms-DataStructures">Algorithms-DataStructures</a></td>
+    <td>Implement Algorithms and Data Structures. 👨‍💻</td>
+    <td><strong>JavaScript</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/React-Native">React-Native</a></td>
+    <td>React Native Course Materials [ META ] 📖</td>
+    <td><strong>React Native</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/React.js">React.js</a></td>
+    <td>React.js Course Materials [ META ] 📖</td>
+    <td><strong>React.js</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/MongoDB">MongoDB</a></td>
+    <td>MongoDB Comprehensive Guide 📖</td>
+    <td><strong>MongoDB</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/ES6-ITI-Course">ES6-ITI-Course</a></td>
+    <td>ECMAScript Course 📖</td>
+    <td><strong>ECMAScript</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Course">JavaScript-ITI-Course</a></td>
+    <td>Vanilla JS Course 📖</td>
+    <td><strong>Vanilla JS</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Kotlin-Coroutines">Kotlin Coroutines</a></td>
+    <td>Kotlin Coroutines Resources 👾</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Working-With-Data">Working-With-Data</a></td>
+    <td>Being able to fetch data from the network, store data in a database as a table, extract the data for use, present the data 📲</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/SQL">SQL</a></td>
+    <td>This repository is dedicated to providing comprehensive examples and explanations of SQL commands 💻</td>
+    <td><strong>SQL</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Firebase-Email-Authentication">Firebase Authentication</a></td>
+    <td>Firebase Authentication With Email 🔥</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/My_Library">My_Library</a></td>
+    <td>Create & Publish First Library Kotlin JVM [ Local - Global ] 💥</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Room_Database">Room_Database</a></td>
+    <td>This repository contains an example of how to use Room Database in an Android application 📲</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/CreationalPatterns-FactoryPattern">CreationalPatterns-FactoryPattern</a></td>
+    <td>Implementation on Creational Patterns - Factory Pattern 👨‍💻</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/CreationalPatterns-BuilderPattern">CreationalPatterns-BuilderPattern</a></td>
+    <td>Implementation on Creational Patterns - Build Pattern 👨‍💻</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/CreationalPatterns-SingletonPattern">CreationalPatterns-SingletonPattern</a></td>
+    <td>Implementation on Creational Patterns - Singleton Pattern 👨‍💻</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Architecture-Patterns">Architecture-Patterns</a></td>
+    <td>Implementation on MVC | MVB | MVVM in Android 💻</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Vernam">Vernam</a></td>
+    <td>Implementation on Vernam Cipher in Cryptography 1️⃣</td>
+    <td><strong>Python</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/API">API</a></td>
+    <td>Handle API's in Android 🔗</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/ReactiveX">ReactiveX</a></td>
+    <td>Practice on Reactive Extensions for Async Programming 📲</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/KotlinCourse">KotlinCourse</a></td>
+    <td>Learn and Practice on Kotlin 🥇</td>
+    <td><strong>Kotlin</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/computer-science">Open Source Society University</a></td>
+    <td>🎓 Path to a free self-taught education in Computer Science!</td>
+    <td><strong>CS</strong></td>
+  </tr>
+</table>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
 
