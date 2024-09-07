@@ -54,21 +54,88 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 | ![alt text](https://github.com/user-attachments/assets/55a3679b-a7b7-42ef-a879-18c9002cf169) | Repos : Web Projects ... |
 |:------------------------------------------------------:|----------------------------|
 
-| <img src="https://github.com/user-attachments/assets/55a3679b-a7b7-42ef-a879-18c9002cf169" alt="Description" width="45px">  |   **Repos : Web Projects ...**| | |
-| ------------------------- | ----------------- | -------------- | -------------- |
-|       **Repo**            |   **Description** |  **Language**  | **Live** |
-|   [XnO](https://github.com/3mohamed-abdelfattah/XnO)  | Tic-Tac-Toe game. It features dynamic gameplay with real-time updates, a scoring system, and a winning combination display.⭕✖️| **ReactJs(Vite)** |[Live](https://xn-o.vercel.app/)|
-|   [Done-it](https://github.com/3mohamed-abdelfattah/Done-it)  | Done-it is a simple and efficient To-Do App designed to help you manage your tasks effectively. ☑️ | **ReactJs(Vite)** | [Live](https://todo-one-gold.vercel.app/)|
-|   [CloneGPT](https://github.com/3mohamed-abdelfattah/CloneGPT)  |This repository contains a clone of the user interface for ChatGPT, built using React, Vite, and Tailwind CSS. 🤖 | **ReactJs(Vite)** | [Live](https://3mohamed-abdelfattah.github.io/CloneGPT/)|
-|   [CareHub](https://github.com/3mohamed-abdelfattah/Virtual_Project)  | Revolutionizing Healthcare Through Technology 🌐🚀 | **MERN** |Soon|
-|   [MAIZ](https://github.com/3mohamed-abdelfattah/MAIZ)  | MAIZ is a modern, fully responsive website designed for a Saudi cuisine restaurant. 🍽️ | **ReactJs(Vite)** | [Live](https://3mohamed-abdelfattah.github.io/MAIZ/)|
-|   [Weather Wise](https://github.com/3mohamed-abdelfattah/WeatherWise)  | Weather forecasting that displays hourly weather updates, current location, temperature, and weather conditions ☁️ | **JavaScript** | [Live](https://3mohamed-abdelfattah.github.io/WeatherWise/)|
-|   [Egypt ID](https://github.com/3mohamed-abdelfattah/Egypt-ID)  | Allows users to input their Egyptian national ID number and extract information such as their city, date of birth, and gender. 💳 | **ReactJs(Vite)** | [Live](https://3mohamed-abdelfattah.github.io/Egypt-ID/)|
-|   [Portfolio](https://github.com/3mohamed-abdelfattah/Portfolio-ITI)  | Check My Portfolio !! 🤵 |  **React JS** | [Live](https://3mohamed-abdelfattah.github.io/Portfolio-ITI/)|
-|   [ToDo List](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Task)  | Simple ToDo List Built with Vanilla JavaScript 📃 |  **JavaScript** | [Live](https://3mohamed-abdelfattah.github.io/JavaScript-ITI-Task/)|
-|   [Simple Chess](https://github.com/3mohamed-abdelfattah/Simple-Chess-Game)  | Web Application To Play Chess With AI ♟️🤖 | **Python** |Soon|
-|   [RemasterLabs](https://github.com/3mohamed-abdelfattah/RemasterLabs)  | A collection of 50+ web projects that have been reimagined and remastered. 🕸️ | **HTML, CSS, JavaScript** | [Live](https://3mohamed-abdelfattah.github.io/RemasterLabs/)|
-|   [Screw Game Card](https://github.com/3mohamed-abdelfattah/Screw-Card)  | Screw Game Points Tracker 🃏 |  **HTML** | [Live](https://3mohamed-abdelfattah.github.io/Screw-Card/)|
+<table>
+  <tr>
+    <td rowspan="12"><img src="https://github.com/user-attachments/assets/55a3679b-a7b7-42ef-a879-18c9002cf169" alt="Description" width="45px"></td>
+    <td rowspan="12"><strong>Repos: Web Projects ...</strong></td>
+    <td><strong>Repo</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Language</strong></td>
+    <td><strong>Live</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/XnO">XnO</a></td>
+    <td>Tic-Tac-Toe game. It features dynamic gameplay with real-time updates, a scoring system, and a winning combination display.⭕✖️</td>
+    <td><strong>ReactJs(Vite)</strong></td>
+    <td><a href="https://xn-o.vercel.app/">Live</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Done-it">Done-it</a></td>
+    <td>Done-it is a simple and efficient To-Do App designed to help you manage your tasks effectively. ☑️</td>
+    <td><strong>ReactJs(Vite)</strong></td>
+    <td><a href="https://todo-one-gold.vercel.app/">Live</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/CloneGPT">CloneGPT</a></td>
+    <td>This repository contains a clone of the user interface for ChatGPT, built using React, Vite, and Tailwind CSS. 🤖</td>
+    <td><strong>ReactJs(Vite)</strong></td>
+    <td><a href="https://3mohamed-abdelfattah.github.io/CloneGPT/">Live</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Virtual_Project">CareHub</a></td>
+    <td>Revolutionizing Healthcare Through Technology 🌐🚀</td>
+    <td><strong>MERN</strong></td>
+    <td>Soon</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/MAIZ">MAIZ</a></td>
+    <td>MAIZ is a modern, fully responsive website designed for a Saudi cuisine restaurant. 🍽️</td>
+    <td><strong>ReactJs(Vite)</strong></td>
+    <td><a href="https://3mohamed-abdelfattah.github.io/MAIZ/">Live</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/WeatherWise">Weather Wise</a></td>
+    <td>Weather forecasting that displays hourly weather updates, current location, temperature, and weather conditions ☁️</td>
+    <td><strong>JavaScript</strong></td>
+    <td><a href="https://3mohamed-abdelfattah.github.io/WeatherWise/">Live</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Egypt-ID">Egypt ID</a></td>
+    <td>Allows users to input their Egyptian national ID number and extract information such as their city, date of birth, and gender. 💳</td>
+    <td><strong>ReactJs(Vite)</strong></td>
+    <td><a href="https://3mohamed-abdelfattah.github.io/Egypt-ID/">Live</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Portfolio-ITI">Portfolio</a></td>
+    <td>Check My Portfolio !! 🤵</td>
+    <td><strong>React JS</strong></td>
+    <td><a href="https://3mohamed-abdelfattah.github.io/Portfolio-ITI/">Live</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Task">ToDo List</a></td>
+    <td>Simple ToDo List Built with Vanilla JavaScript 📃</td>
+    <td><strong>JavaScript</strong></td>
+    <td><a href="https://3mohamed-abdelfattah.github.io/JavaScript-ITI-Task/">Live</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Simple-Chess-Game">Simple Chess</a></td>
+    <td>Web Application To Play Chess With AI ♟️🤖</td>
+    <td><strong>Python</strong></td>
+    <td>Soon</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/RemasterLabs">RemasterLabs</a></td>
+    <td>A collection of 50+ web projects that have been reimagined and remastered. 🕸️</td>
+    <td><strong>HTML, CSS, JavaScript</strong></td>
+    <td><a href="https://3mohamed-abdelfattah.github.io/RemasterLabs/">Live</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Screw-Card">Screw Game Card</a></td>
+    <td>Screw Game Points Tracker 🃏</td>
+    <td><strong>HTML</strong></td>
+    <td><a href="https://3mohamed-abdelfattah.github.io/Screw-Card/">Live</a></td>
+  </tr>
+</table>
 
 
 <hr/>
