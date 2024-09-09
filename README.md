@@ -84,7 +84,7 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
     <td><a href="https://github.com/3mohamed-abdelfattah/Virtual_Project">CareHub</a></td>
     <td>Revolutionizing Healthcare Through Technology 🌐🚀</td>
     <td><strong>MERN</strong></td>
-    <td>Soon</td>
+    <td>UnderDevelopment</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/MAIZ">MAIZ</a></td>
