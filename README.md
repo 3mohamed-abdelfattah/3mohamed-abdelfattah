@@ -82,9 +82,9 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Virtual_Project">CareHub</a></td>
-    <td>Revolutionizing Healthcare Through Technology 🌐🚀 **!I'm updating this project to a new version with better features, performance, and scalability. It will also support multiple platforms for wider reach and improved user experience.** </td>
+    <td>Revolutionizing Healthcare Through Technology 🌐🚀 ⚠️I'm updating this project to a new version with better features, performance, and scalability. It will also support multiple platforms for wider reach and improved user experience with the new UI.⚠️</td>
     <td><strong>MERN</strong></td>
-    <td>In Development</td>
+    <td>Uder Development</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/MAIZ">MAIZ</a></td>
