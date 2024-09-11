@@ -47,11 +47,11 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 [![My Skills](https://skillicons.dev/icons?i=js,kotlin,cpp,java,py,html,css,react,bootstrap,flutter,ktor,idea,androidstudio,atom,vscode,firebase,sqlite,reactivex,gradle,git,github,linux,figma,blender,ai,pr,postman,stackoverflow,bash,netlify&theme=light)](https://skillicons.dev)
 
-<p align="center">
+<div align="center">
 	  
  [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css,redux,vite,mongodb,babel,npm,vercel&theme=light)](https://skillicons.dev)
    
-</p>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
