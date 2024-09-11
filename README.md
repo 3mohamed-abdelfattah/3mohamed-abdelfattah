@@ -57,6 +57,11 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 </div>
 
+<div align="center">  
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,pr&theme=light)](https://skillicons.dev)
+
+</div>
 
 <div align="center">  
 
@@ -67,12 +72,6 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 <div align="center">  
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,reactivex,firebase,mysql,sqlite,gradle&theme=light)](https://skillicons.dev)
-
-</div>
-
-<div align="center">  
-
-[![My Skills](https://skillicons.dev/icons?i=figma,ai,pr&theme=light)](https://skillicons.dev)
 
 </div>
 
