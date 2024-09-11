@@ -45,27 +45,9 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
 
-<div align="center">
-	  
- [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css,redux,vite,mongodb,babel,npm,vercel&theme=light)](https://skillicons.dev)
-   
-</div>
-
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,reactivex,firebase,mysql,sqlite&theme=light)](https://skillicons.dev)
-
-</div>
-
-<div align="center">  
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,docker&theme=light)](https://skillicons.dev)
-
-</div>
-
-<div align="center">  
-
-[![My Skills](https://skillicons.dev/icons?i=figma,ai,pr&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -75,10 +57,29 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 </div>
 
+
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,docker&theme=light)](https://skillicons.dev)
 
+</div>
+
+<div align="center">  
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,reactivex,firebase,mysql,sqlite,gradle&theme=light)](https://skillicons.dev)
+
+</div>
+
+<div align="center">  
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,pr&theme=light)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+	  
+ [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css,redux,vite,mongodb,babel,npm,vercel&theme=light)](https://skillicons.dev)
+   
 </div>
 
 <br/>
