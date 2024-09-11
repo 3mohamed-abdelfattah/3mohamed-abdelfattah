@@ -350,9 +350,13 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 </table>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&layout=compact&hide_border=true" alt="mohamed-abdelfattah" />
-    <img src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&hide_border=true&line_height=27" alt="3mohamed-abdelfattah" />
+    <img src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&hide_border=true" alt="3mohamed-abdelfattah" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=3mohamed-abdelfattah&show_icons=true&hide_border=true" alt="3mohamed-abdelfattah" />
 </div>
 <div align="center" >
 <a href="https://github.com/3mohamed-abdelfattah">
