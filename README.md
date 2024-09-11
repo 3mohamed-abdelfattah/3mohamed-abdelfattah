@@ -53,17 +53,17 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
    
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
-  </a>
-</p>
+<div align="center">  
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,reactivex,firebase,mysql,sqlite&theme=light)](https://skillicons.dev)
+
+</div>
+
+<div align="center">  
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea&theme=light)](https://skillicons.dev)
+
+</div>
 
 
 <br/>
