@@ -77,7 +77,7 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 <div align="center">
 	  
- [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css,redux,vite,mongodb,babel,npm,vercel&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css,redux,vite,mongodb,npm,vercel&theme=light)](https://skillicons.dev)
    
 </div>
 
