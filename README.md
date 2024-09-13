@@ -1,7 +1,5 @@
 <div align="center">
-	<br>
-		<img src="https://github.com/user-attachments/assets/4aa1ece5-e87b-4526-8113-33b5371ea14c" width="400px">
-	<be>
+   <img src="https://github.com/user-attachments/assets/4aa1ece5-e87b-4526-8113-33b5371ea14c" width="400px">
 </div>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  MORE ABOUT ME  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="30" />
@@ -82,6 +80,9 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<br><br>
 
 <table>
   <tr>
@@ -176,6 +177,11 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 
 <hr/>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900">
+<br><br>
+
 
 <table>
   <tr>
