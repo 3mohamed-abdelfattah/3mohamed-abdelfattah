@@ -81,7 +81,9 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<hr/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 <br><br>
 
 <table>
@@ -179,7 +181,7 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
 <hr/>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif">
 <br><br>
 
 
