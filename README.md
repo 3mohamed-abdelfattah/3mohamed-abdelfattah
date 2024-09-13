@@ -95,6 +95,12 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
     <td><strong>Live</strong></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Rivo">Rivo</a></td>
+    <td>Discover and Find Your Own Fashion! Explore our curated collection of stylish clothing and accessories tailored to your unique taste. 🛍️</td>
+    <td><strong>ReactJs(Vite)</strong></td>
+    <td><a href="https://rivo-one.vercel.app/">Live</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/XnO">XnO</a></td>
     <td>Tic-Tac-Toe game. It features dynamic gameplay with real-time updates, a scoring system, and a winning combination display.⭕✖️</td>
     <td><strong>ReactJs(Vite)</strong></td>
