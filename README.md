@@ -97,7 +97,7 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/ITI-Movies">New Movie</a></td>
-    <td>Discover and explore movies. This project provides an intuitive interface to browse popular movies, view detailed information about each film, and stay updated with the latest releases.🍿 </td>
+    <td>Provides an intuitive interface to browse popular movies, view detailed information about each film, and stay updated with the latest releases.🍿 </td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://iti-movies.vercel.app/">Live</a></td>
   </tr>
