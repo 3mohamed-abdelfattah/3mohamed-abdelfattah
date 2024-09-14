@@ -96,6 +96,12 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
     <td><strong>Live</strong></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/ITI-Movies">New Movie</a></td>
+    <td>Designed to help users discover and explore movies. This project provides an intuitive interface to browse popular movies, view detailed information about each film, and stay updated with the latest releases.🍿 </td>
+    <td><strong>ReactJs(Vite)</strong></td>
+    <td><a href="https://iti-movies.vercel.app/">Live</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Rivo">Rivo</a></td>
     <td>Discover and Find Your Own Fashion! Explore our curated collection of stylish clothing and accessories tailored to your unique taste. 🛍️</td>
     <td><strong>ReactJs(Vite)</strong></td>
