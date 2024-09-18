@@ -375,6 +375,11 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
     <td><strong>Python</strong></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/NTI-Web-Designer">WEB Designer</a></td>
+    <td>NTI WEB Designer Materials 📃</td>
+    <td><strong>WEB Design</strong></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/API">API</a></td>
     <td>Handle API's in Android 🔗</td>
     <td><strong>Kotlin</strong></td>
