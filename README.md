@@ -96,6 +96,12 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
     <td><strong>Live</strong></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/CLICON">C L I C O N</a></td>
+    <td>CLICON is an eCommerce platform similar to Amazon, allowing users to browse products, add them to their cart, and manage their orders. The platform includes user authentication. 🏬</td>
+    <td><strong>ReactJs(Vite)</strong></td>
+    <td><a href="https://clicon-tau.vercel.app/home">Live</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/ITI-Movies">New Movie</a></td>
     <td>Provides an intuitive interface to browse popular movies, view detailed information about each film, and stay updated with the latest releases.🍿 </td>
     <td><strong>ReactJs(Vite)</strong></td>
