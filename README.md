@@ -98,7 +98,7 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Florenza">Florenza</a></td>
     <td>Florenza, the ultimate destination for all types of flowers and scented candles! We provide a delightful online shopping experience for those looking to send gifts that bloom with love. 🌸</td>
-    <td><strong>HTML,JS</strong></td>
+    <td><strong>HTML, JS</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/Florenza/">Live</a></td>
   </tr>
   <tr>
