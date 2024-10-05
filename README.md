@@ -96,6 +96,12 @@ Join me as I continue to explore the ever-evolving tech landscape, pushing bound
     <td><strong>Live</strong></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Florenza">Florenza</a></td>
+    <td>Florenza, the ultimate destination for all types of flowers and scented candles! We provide a delightful online shopping experience for those looking to send gifts that bloom with love. 🌸</td>
+    <td><strong>HTML,JS</strong></td>
+    <td><a href="https://3mohamed-abdelfattah.github.io/Florenza/">Live</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/CLICON">C L I C O N</a></td>
     <td>CLICON is an eCommerce platform similar to Amazon, allowing users to browse products, add them to their cart, and manage their orders. The platform includes user authentication. 🏬</td>
     <td><strong>ReactJs(Vite)</strong></td>
