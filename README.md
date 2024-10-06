@@ -18,11 +18,6 @@
 Join me as I continue to explore the ever-evolving tech landscape, pushing boundaries and achieving excellence. Let's build something amazing together! 💡
 </p>
 
-<h3 align="center">
-  
-  Check out my [Portfolio](https://3mohamed-abdelfattah.github.io/Portfolio-ITI/)!
-
-</h3>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
