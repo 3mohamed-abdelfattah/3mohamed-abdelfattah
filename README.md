@@ -2,16 +2,16 @@
    <img src="https://github.com/user-attachments/assets/4aa1ece5-e87b-4526-8113-33b5371ea14c" width="400px">
 </div>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  MORE ABOUT ME  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="30" />
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  ABOUT ME  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="30" />
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=0e75b6&style=flat" alt="3mohamed-abdelfattah" /> </p>
 
-### 🌟 Greetings, World Of Innovation!
+### 🌟 Greetings, World of Innovation!
 <p algin='center'>
-This space reflects my journey in software development, where I not only share the results of my training and projects but also offer carefully crafted tools and extensions ⚙️ designed to support and empower developers. Each contribution is made with the aim of enhancing efficiency, fostering collaboration 🤝, and contributing to the collective growth of the development community.
+I am a Front-end Developer specializing in creating web and native mobile applications with a focus on user-friendly designs and exceptional user experiences. My priority is writing clean, efficient code and delivering customized solutions tailored to meet the specific needs of each client.
 
-I invite you to explore, engage, and join me in the continuous pursuit of knowledge and innovation. 🚀
+With a strong foundation in web technologies and mobile app development, combined with a deep understanding of user experience, I ensure the delivery of functional and visually engaging applications. I am ready to collaborate with you to bring your ideas to life.
 </p>
 
 
