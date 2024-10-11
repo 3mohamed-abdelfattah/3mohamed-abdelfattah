@@ -159,7 +159,7 @@ With a strong foundation in web technologies and mobile app development, combine
     <td><a href="https://3mohamed-abdelfattah.github.io/Egypt-ID/">Live</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/3mohamed-abdelfattah/Portfolio-ITI">Portfolio</a></td>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Portfolio-ITI">Portfolio-ITI</a></td>
     <td>ITI final project portfolio!</td>
     <td><strong>React JS</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/Portfolio-ITI/">Live</a></td>
