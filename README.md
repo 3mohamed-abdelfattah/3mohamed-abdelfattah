@@ -87,6 +87,12 @@ With a strong foundation in web technologies and mobile app development, combine
     <td><strong>Live</strong></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Master">Master</a></td>
+    <td>Welcome to my portfolio, This repository is regularly updated with new projects and enhancements. Be sure to check back for the latest updates.👑</td>
+    <td><strong>ReactJs(Vite)</strong></td>
+    <td><a href="https://master-two-sigma.vercel.app/">Live</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Florenza">Florenza</a></td>
     <td>Florenza, the ultimate destination for all types of flowers and scented candles! We provide a delightful online shopping experience for those looking to send gifts that bloom with love. 🌸</td>
     <td><strong>HTML, JS</strong></td>
