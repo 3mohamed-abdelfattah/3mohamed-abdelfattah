@@ -87,6 +87,12 @@ With a strong foundation in web technologies and mobile app development, combine
     <td><strong>Live</strong></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Fyrre-Magazine">FyrreMagazine</a></td>
+    <td></td>
+    <td><strong>ReactJs(Vite)</strong></td>
+    <td><a href="">Under Develpment</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/BOARD">BOARD</a></td>
     <td> The Board Gaming Platform introduces users to a futuristic gaming experience. 🕹️ </td>
     <td><strong>ReactJs(Vite)</strong></td>
