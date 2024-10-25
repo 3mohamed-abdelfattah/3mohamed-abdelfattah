@@ -87,7 +87,7 @@ With a strong foundation in web technologies and mobile app development, combine
     <td><strong>Live</strong></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/3mohamed-abdelfattah/Fyrre-Magazine">FyrreMagazine</a></td>
+    <td><a href="https://github.com/3mohamed-abdelfattah/Fyrre-Magazine">Fyrre Magazine</a></td>
     <td></td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="">Under Develpment</a></td>
