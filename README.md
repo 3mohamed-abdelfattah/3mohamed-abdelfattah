@@ -88,9 +88,9 @@ With a strong foundation in web technologies and mobile app development, combine
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Fyrre-Magazine">Fyrre Magazine</a></td>
-    <td></td>
+    <td>Fyrre Magazine aims to offer a diverse range of content that includes a variety of magazines, podcasts, and authors. 📔</td>
     <td><strong>ReactJs(Vite)</strong></td>
-    <td><a href="">Under Develpment</a></td>
+    <td><a href="https://fyrre-magazine-self.vercel.app">Live</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/BOARD">BOARD</a></td>
