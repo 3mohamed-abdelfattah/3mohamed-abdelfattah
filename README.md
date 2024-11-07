@@ -9,9 +9,9 @@
 
 ### 🌟 Greetings, World of Innovation!
 <p algin='center'>
-I am a Front-end Developer specializing in creating web and native mobile applications with a focus on user-friendly designs and exceptional user experiences. My priority is writing clean, efficient code and delivering customized solutions tailored to meet the specific needs of each client.
+I am a Front-end Developer specializing in creating web and mobile applications. I focus on user-friendly designs and exceptional user experiences. My priority is writing clean, efficient code and delivering customized solutions tailored to each client's specific needs.
 
-With a strong foundation in web technologies and mobile app development, combined with a deep understanding of user experience, I ensure the delivery of functional and visually engaging applications. I am ready to collaborate with you to bring your ideas to life.
+With a strong foundation in web technologies and mobile app development and a deep understanding of user experience, I ensure the delivery of functional and visually engaging applications. I am ready to collaborate with you to bring your ideas to life.
 </p>
 
 
@@ -24,7 +24,7 @@ With a strong foundation in web technologies and mobile app development, combine
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/+201101201745" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="WhatsApp logo" />
   </a>
 </div>
 </p>
@@ -124,7 +124,7 @@ With a strong foundation in web technologies and mobile app development, combine
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Rivo">Rivo</a></td>
-    <td>Discover and Find Your Own Fashion! Explore our curated collection of stylish clothing and accessories tailored to your unique taste. 🛍️</td>
+    <td>Discover and Find Your Fashion! Explore our curated collection of stylish clothing and accessories tailored to your unique taste. 🛍️</td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://rivo-one.vercel.app/">Live</a></td>
   </tr>
@@ -154,7 +154,7 @@ With a strong foundation in web technologies and mobile app development, combine
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/MAIZ">MAIZ</a></td>
-    <td>MAIZ is a modern, fully responsive website designed for a Saudi cuisine restaurant. 🍽️</td>
+    <td>MAIZ is a modern, fully responsive website for a Saudi cuisine restaurant. 🍽️</td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/MAIZ/">Live</a></td>
   </tr>
@@ -392,7 +392,7 @@ With a strong foundation in web technologies and mobile app development, combine
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Vernam">Vernam</a></td>
-    <td>Implementation on Vernam Cipher in Cryptography 1️⃣</td>
+    <td>Implementation of Vernam Cipher in Cryptography 1️⃣</td>
     <td><strong>Python</strong></td>
   </tr>
   <tr>
