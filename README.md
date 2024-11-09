@@ -2,10 +2,10 @@
    <img src="https://github.com/user-attachments/assets/4aa1ece5-e87b-4526-8113-33b5371ea14c" width="400px">
 </div>
 
-## 
-<font color="red">About This GitHub</font> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="50" height="50" />
+<p style="color:blue">Make this text blue.</p>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  About This GitHub  <img src="https://img.icons8.com/?size=100&id=v551nqGeHhGn&format=png&color=000000" alt="Beaming Face with Smiling Eyes" width="30" />
+## <font color="red"> About This GitHub </font> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="50" height="50" />
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=A91D3A&style=for-the-badge" alt="3mohamed-abdelfattah" /> </p>
 
@@ -25,7 +25,7 @@
 
 - **Collaborative and Open-Source Projects**: Some projects are open for contributions from other developers, promoting a collaborative learning environment. Please review the **Contribution** section to see if contributions are allowed.
 
-⚠️ **Note**: Certain projects may be client-specific or associated with real-world projects, and therefore are restricted for personal use or reproduction. Always check the **Contribution** section within each repository to ensure compliance with usage permissions.
+:warning: **Warning:** Certain projects may be client-specific or associated with real-world projects, and therefore are restricted for personal use or reproduction. Always check the **Contribution** section within each repository to ensure compliance with usage permissions.
 
 Feel free to explore, utilize resources, or join in collaboration. I’m always open to connecting with the developer community and supporting others in their journey!
 
