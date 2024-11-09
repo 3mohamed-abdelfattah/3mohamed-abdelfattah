@@ -3,13 +3,13 @@
 </div>
 
 
-<h1>
-  About This GitHub  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="35" />
+<h1 align="center">
+  About This GitHub  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Shark.png" alt="Shark" width="40" />
 </h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=A91D3A&style=for-the-badge" alt="3mohamed-abdelfattah" /> </p>
 
-### 🌟 Greetings, World of Innovation!
+### 🌟 Greetings, World of Innovation! &nbsp;&nbsp;&nbsp;  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="30" />
 
  Here, you’ll find a well-organized collection of projects, resources, and tools crafted to support both clients and fellow developers in enhancing their productivity and learning:
 
@@ -46,7 +46,7 @@ Feel free to explore, utilize resources, or join in collaboration. I’m always 
 
 
 
-<h1>
+<h1 align="center">
 Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" />
 </h1> 
 
@@ -438,8 +438,8 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
   </tr>
 </table>
 
-<h1>
-MY STATS &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="35" />	
+<h1 align="center">
+GitHub Stats &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="35" />	
 </h1> 
 
 <div align="center">
