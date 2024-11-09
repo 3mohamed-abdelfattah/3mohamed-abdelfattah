@@ -2,7 +2,8 @@
    <img src="https://github.com/user-attachments/assets/4aa1ece5-e87b-4526-8113-33b5371ea14c" width="400px">
 </div>
 
-## <font color="red">About This GitHub</font> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" />
+## 
+<font color="red">About This GitHub</font> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="50" height="50" />
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  About This GitHub  <img src="https://img.icons8.com/?size=100&id=v551nqGeHhGn&format=png&color=000000" alt="Beaming Face with Smiling Eyes" width="30" />
 
