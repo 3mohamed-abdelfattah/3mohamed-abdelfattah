@@ -3,7 +3,7 @@
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="35" /> &nbsp; About This GitHub 
+##  About This GitHub  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="35" />
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=A91D3A&style=for-the-badge" alt="3mohamed-abdelfattah" /> </p>
@@ -30,7 +30,7 @@ Feel free to explore, utilize resources, or join in collaboration. I’m always 
 
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's Connect and have a Chat! &nbsp; 💬
 </h1>
 <p align="center">
 <div align="center">
@@ -46,7 +46,7 @@ Feel free to explore, utilize resources, or join in collaboration. I’m always 
 
 
 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
+ ## Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" />
 
 <div align="center">  
 
@@ -436,7 +436,7 @@ Feel free to explore, utilize resources, or join in collaboration. I’m always 
   </tr>
 </table>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
+## MY STATS &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="35" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&layout=compact&hide_border=true" alt="mohamed-abdelfattah" />
@@ -451,7 +451,7 @@ Feel free to explore, utilize resources, or join in collaboration. I’m always 
 </div>
 
 <h1 align="center">
-     IT WAS NICE MEETING YOU!   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" />
+     IT WAS NICE MEETING YOU! &nbsp <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35" />
 </h1>
 
 
