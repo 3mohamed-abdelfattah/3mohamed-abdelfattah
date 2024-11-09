@@ -4,14 +4,13 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  About This GitHub  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="30" />
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=0e75b6&style=flat" alt="3mohamed-abdelfattah" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=A91D3A&style=for-the-badge" alt="3mohamed-abdelfattah" /> </p>
 
 ### 🌟 Greetings, World of Innovation!
 
  Here, you’ll find a well-organized collection of projects, resources, and tools crafted to support both clients and fellow developers in enhancing their productivity and learning:
 
-- **Professional Project Code**: This section includes codebases for my professional projects, maintained with high-quality organization. Clients can monitor updates in real time and review progress through detailed documentation.
+- **Professional Project Code**: This section includes codebases for my professional projects, maintained with high-quality organization. Clients can monitor updates in real-time and review progress through detailed documentation.
 
 - **Developer Tools and Extensions**: I provide a range of tools and custom extensions designed to streamline development workflows and boost efficiency for other developers.
 
