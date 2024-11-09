@@ -30,21 +30,6 @@
 Feel free to explore, utilize resources, or join in collaboration. I’m always open to connecting with the developer community and supporting others in their journey!
 
 
-<h1 align="center">
-  Let's Connect and have a Chat! &nbsp; 💬
-</h1>
-<p align="center">
-<div align="center">
-  <a href="https://www.linkedin.com/in/3mohamed-abdelfattah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/+201101201745" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="WhatsApp logo" />
-  </a>
-</div>
-</p>
-
-
 
 <h1 align="center">
 Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" />
