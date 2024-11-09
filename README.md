@@ -9,7 +9,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=A91D3A&style=for-the-badge" alt="3mohamed-abdelfattah" /> </p>
 
-###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="28" /> &nbsp; Greetings, World of Innovation! &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="28" />
+### Greetings, World of Innovation! &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="28" />
 
  Here, you’ll find a well-organized collection of projects, resources, and tools crafted to support both clients and fellow developers in enhancing their productivity and learning:
 
