@@ -436,7 +436,9 @@ Feel free to explore, utilize resources, or join in collaboration. I’m always 
   </tr>
 </table>
 
-## MY STATS &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="35" />
+<h1>
+MY STATS &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" />	
+</h1> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mohamed-abdelfattah&layout=compact&hide_border=true" alt="mohamed-abdelfattah" />
