@@ -88,6 +88,12 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
     <td><strong>Live</strong></td>
   </tr>
   <tr>
+    <td><a href="https://www.linkedin.com/posts/3mohamed-abdelfattah_%F0%9D%97%9F%F0%9D%98%82%F0%9D%98%85%F0%9D%97%B2-%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%98%80-%F0%9D%97%94-%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BA%F0%9D%97%B6%F0%9D%98%82-activity-7265987810770251776-V6Rx?utm_source=share&utm_medium=member_desktop">Luxe Chronos</a></td>
+    <td>Luxe Chronos is a redesigned and rebuilt landing page for a luxury watches shop, developed for a client aiming to provide a sleek and modern user experience for luxury watches.</td>
+    <td><strong>ReactJs(Vite)</strong></td>
+    <td><a href="https://luxe-chronos.vercel.app/">Live</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Fyrre-Magazine">Fyrre Magazine</a></td>
     <td>Fyrre Magazine aims to offer a diverse range of content that includes a variety of magazines, podcasts, and authors. 📔</td>
     <td><strong>ReactJs(Vite)</strong></td>
