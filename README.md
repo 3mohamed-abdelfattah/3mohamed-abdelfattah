@@ -27,8 +27,11 @@
 
 :warning: **Warning:** Certain projects may be client-specific or associated with real-world projects, and therefore are restricted for personal use or reproduction. Always check the **Contribution** section within each repository to ensure compliance with usage permissions.
 
-Feel free to explore, utilize resources, or join in collaboration. I’m always open to connecting with the developer community and supporting others in their journey!
+Feel free to explore, utilize resources, or collaborate. I’m always open to connecting with the developer community and supporting others in their journey!
 
+## 🔗 Links
+
+[![Upwork](https://www.svgrepo.com/show/354495/upwork.svg)](https://www.upwork.com/freelancers/~019d1b98220787822b?mp_source=share)
 
 
 <h1 align="center">
