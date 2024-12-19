@@ -31,22 +31,17 @@ Feel free to explore, utilize resources, or collaborate. I’m always open to co
 
 <div align="center">
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="fire" width="30" />  
-  &nbsp; Your Next Project Starts Here &nbsp;  
+<h2 style="display: inline-flex; align-items: center; gap: 10px; margin: 0;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="fire" width="30" />
+  Your Next Project Starts Here
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="fire" width="30" />
 </h2>
 
-<a href="https://www.upwork.com/freelancers/~019d1b98220787822b?mp_source=share" style="text-decoration: none;">
-  <img src="https://www.svgrepo.com/show/354495/upwork.svg" width="130px" alt="Upwork">
+<a href="https://www.upwork.com/freelancers/~019d1b98220787822b?mp_source=share">
+  <img src="https://www.svgrepo.com/show/354495/upwork.svg" width="50px" alt="Upwork">
 </a>
 
-<p style="font-size: 16px; color: #555; margin-top: 10px;">
-  Click the logo to get started on Upwork!
-</p>
-
 </div>
-
 
 
 <h1 align="center">
