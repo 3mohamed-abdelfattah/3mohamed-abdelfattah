@@ -29,11 +29,15 @@
 
 Feel free to explore, utilize resources, or collaborate. I’m always open to connecting with the developer community and supporting others in their journey!
 
-## 🔗 Links
+<div align="center">
+
+### Your Next Project Starts Here
 
 <a href="https://www.upwork.com/freelancers/~019d1b98220787822b?mp_source=share">
-  <img src="https://www.svgrepo.com/show/354495/upwork.svg" width="35px">
+  <img src="https://www.svgrepo.com/show/354495/upwork.svg" width="120px" alt="Upwork">
 </a>
+
+</div>
 
 
 <h1 align="center">
