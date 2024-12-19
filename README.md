@@ -31,7 +31,9 @@ Feel free to explore, utilize resources, or collaborate. I’m always open to co
 
 ## 🔗 Links
 
-[![Upwork](https://www.svgrepo.com/show/354495/upwork.svg)](https://www.upwork.com/freelancers/~019d1b98220787822b?mp_source=share)
+<a href="https://www.upwork.com/freelancers/~019d1b98220787822b?mp_source=share">
+  <img src="https://www.svgrepo.com/show/354495/upwork.svg" width="35px">
+</a>
 
 
 <h1 align="center">
