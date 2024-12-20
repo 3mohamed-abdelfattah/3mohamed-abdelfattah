@@ -34,12 +34,11 @@ Feel free to explore, utilize resources, or collaborate. I’m always open to co
 <div align="center">
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="fire" width="25" /> &nbsp;  Your Next Project Starts Here  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="fire" width="25" />
-</h3>
-
-<a href="https://www.upwork.com/freelancers/~019d1b98220787822b?mp_source=share">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="fire" width="25" /> &nbsp;  Your Next Project Starts Here  &nbsp; <a href="https://www.upwork.com/freelancers/~019d1b98220787822b?mp_source=share">
   <img src="https://www.svgrepo.com/show/354495/upwork.svg" width="100px" alt="Upwork">
 </a>
+</h3>
+
 
 </div>
 
