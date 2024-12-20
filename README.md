@@ -42,8 +42,8 @@ Feel free to explore, utilize resources, or collaborate. I’m always open to co
 	<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="60px" alt="LinkedIn">
 </a>
 	  &nbsp;
-<a href="https://wa.me/201101201745">
-	<img src="https://cdn.worldvectorlogo.com/logos/whatsapp-8.svg" width="50px" alt="whatsapp">
+<a href="mailto:mohamed.devmaster@gmail.com">
+	<img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" width="60px" alt="mail">
 </a>
 </h3>
 
