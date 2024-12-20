@@ -41,6 +41,10 @@ Feel free to explore, utilize resources, or collaborate. I’m always open to co
 <a href="https://www.linkedin.com/in/3mohamed-abdelfattah/">
 	<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="60px" alt="LinkedIn">
 </a>
+	  &nbsp;
+<a href="https://wa.me/201101201745">
+	<img src="https://cdn.worldvectorlogo.com/logos/whatsapp-8.svg" width="60px" alt="whatsapp">
+</a>
 </h3>
 
 
