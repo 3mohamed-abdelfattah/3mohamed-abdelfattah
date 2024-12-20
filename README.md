@@ -34,12 +34,12 @@ Feel free to explore, utilize resources, or collaborate. I’m always open to co
 <div align="center">
 
 <h3 align="center">
-<a href="https://www.linkedin.com">		  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="fire" width="25" />
+<a href="https://www.upwork.com/freelancers/~019d1b98220787822b">		  
+  <img src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="upwork" width="60px" />
 </a>
   &nbsp;
-<a href="https://www.linkedin.com">
-	<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="25px" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/3mohamed-abdelfattah/">
+	<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="60px" alt="LinkedIn">
 </a>
 </h3>
 
