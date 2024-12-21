@@ -7,7 +7,7 @@
   About This GitHub  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Shark.png" alt="Shark" width="40" />
 </h1>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=A91D3A&style=for-the-badge" alt="3mohamed-abdelfattah" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=3mohamed-abdelfattah&label=Profile%20views&color=orange&style=for-the-badge" alt="3mohamed-abdelfattah" /> </p>
 
 ### Greetings, World of Innovation! &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="28" />
 
