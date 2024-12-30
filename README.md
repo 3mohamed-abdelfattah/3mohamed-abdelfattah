@@ -113,7 +113,7 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
     <td><a href="https://github.com/3mohamed-abdelfattah/Expat.cl">Expat.cl</a></td>
     <td>Expat.cl is a comprehensive web platform that provides essential support services for expatriates moving to Chile. 💳</td>
     <td><strong>HTML, TailwindCSS</strong></td>
-    <td>Not Live</td>
+    <td><a href="https://3mohamed-abdelfattah.github.io/Expat.cl/">Live</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Luxe-Chronos">Luxe Chronos</a></td>
