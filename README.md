@@ -97,11 +97,19 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
 
 <hr/>
 
+:warning: **Legal Notice** :warning: 
+
+- **View Only:** *means these are client-based projects protected by copyright. They are accessible for viewing but cannot be edited. Any unauthorized use, modification, or redistribution may result in legal consequences.*
+- **Allowed (with legal terms):** *means these projects allow contributions or modifications under specific conditions. Any commercial or profitable use requires my prior approval or purchasing of the rights.*
+- **Allowed:** *means the project allows contributions, modifications, and usage without restrictions.*
+
+<hr/>
+
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 <table>
   <tr>
     <td align='center'><img src="https://github.com/user-attachments/assets/47c448c1-59c6-458d-b597-c81c1b9f7621" alt="Description" width="45px"></td>
-    <td colspan="3" align='center'><strong>Web Development Projects</strong></td>
+    <td colspan="4" align='center'><strong>Web Development Projects</strong></td>
   </tr>
   <tr>
     <td><strong>Repository</strong></td>
@@ -267,7 +275,7 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
 <table>
   <tr>
     <td align='center'><img width="45" alt="about" src="https://github.com/user-attachments/assets/b2f911cf-dbca-4eea-95d0-4c7a90375a70"></td>
-    <td colspan="2" align='center'><strong>Mobile App Development Projects</strong></td>
+    <td colspan="3" align='center'><strong>Mobile App Development Projects</strong></td>
   </tr>
   <tr>
     <td><strong>Repo</strong></td>
