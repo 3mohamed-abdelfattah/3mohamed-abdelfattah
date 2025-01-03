@@ -108,132 +108,153 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
     <td><strong>Description</strong></td>
     <td><strong>Language</strong></td>
     <td><strong>Live</strong></td>
+    <td><strong>Contribution</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Expat.cl">Expat.cl</a></td>
     <td>Expat.cl is a comprehensive web platform that provides essential support services for expatriates moving to Chile. 💳</td>
     <td><strong>HTML, TailwindCSS</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/Expat.cl/">Live</a></td>
+    <td>>View Only</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Luxe-Chronos">Luxe Chronos</a></td>
     <td>Luxe Chronos is a redesigned and rebuilt landing page for a luxury watches shop, developed for a client aiming to provide a sleek and modern user experience for luxury watches. ⌚</td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://luxe-chronos.vercel.app/">Live</a></td>
+    <td>>View Only</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Fyrre-Magazine">Fyrre Magazine</a></td>
     <td>Fyrre Magazine aims to offer a diverse range of content that includes a variety of magazines, podcasts, and authors. 📔</td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://fyrre-magazine-self.vercel.app">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/BOARD">BOARD</a></td>
     <td> The Board Gaming Platform introduces users to a futuristic gaming experience. 🕹️ </td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://board-nine-wheat.vercel.app/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Master">Master</a></td>
     <td>Welcome to my portfolio, This repository is regularly updated with new projects and enhancements. Be sure to check back for the latest updates.👑</td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://master-two-sigma.vercel.app/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Florenza">Florenza</a></td>
     <td>Florenza, the ultimate destination for all types of flowers and scented candles! We provide a delightful online shopping experience for those looking to send gifts that bloom with love. 🌸</td>
     <td><strong>HTML, JS</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/Florenza/">Live</a></td>
+    <td>>Allowed (with legal terms)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/CLICON">C L I C O N</a></td>
     <td>CLICON is an eCommerce platform similar to Amazon, allowing users to browse products, add them to their cart, and manage their orders. The platform includes user authentication. 🏬</td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://clicon-tau.vercel.app/">Live</a></td>
+    <td>>Allowed (with legal terms)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/ITI-Movies">New Movie</a></td>
     <td>Provides an intuitive interface to browse popular movies, view detailed information about each film, and stay updated with the latest releases.🍿 </td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://iti-movies.vercel.app/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Rivo">Rivo</a></td>
     <td>Discover and Find Your Fashion! Explore our curated collection of stylish clothing and accessories tailored to your unique taste. 🛍️</td>
     <td><strong>ReactJs(Vite)</strong></td>
-    <td><a href="https://rivo-one.vercel.app/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/XnO">XnO</a></td>
     <td>Tic-Tac-Toe game. It features dynamic gameplay with real-time updates, a scoring system, and a winning combination display.⭕✖️</td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://xn-o.vercel.app/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Done-it">Done-it</a></td>
     <td>Done-it is a simple and efficient To-Do App designed to help you manage your tasks effectively. ☑️</td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://todo-one-gold.vercel.app/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/CloneGPT">CloneGPT</a></td>
     <td>This repository contains a clone of the user interface for ChatGPT, built using React, Vite, and Tailwind CSS. 🤖</td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/CloneGPT/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Virtual_Project">CareHub</a></td>
     <td>Revolutionizing Healthcare Through Technology 🌐🚀 ⚠️Updating to a new version with improved features, performance, scalability, and multi-platform support for a better user experience and UI.⚠️</td>
     <td><strong>MERN</strong></td>
     <td>Under Development</td>
+    <td>View Only</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/MAIZ">MAIZ</a></td>
     <td>MAIZ is a modern, fully responsive website for a Saudi cuisine restaurant. 🍽️</td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/MAIZ/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/WeatherWise">Weather Wise</a></td>
     <td>Weather forecasting that displays hourly weather updates, current location, temperature, and weather conditions ☁️</td>
     <td><strong>JavaScript</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/WeatherWise/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Egypt-ID">Egypt ID</a></td>
     <td>Allows users to input their Egyptian national ID number and extract information such as their city, date of birth, and gender. 💳</td>
     <td><strong>ReactJs(Vite)</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/Egypt-ID/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Portfolio-ITI">Portfolio-ITI</a></td>
     <td>ITI final project portfolio!</td>
     <td><strong>React JS</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/Portfolio-ITI/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Task">ToDo List</a></td>
     <td>Simple ToDo List Built with Vanilla JavaScript 📃</td>
     <td><strong>JavaScript</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/JavaScript-ITI-Task/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Simple-Chess-Game">Simple Chess</a></td>
     <td>Web Application To Play Chess With AI ♟️🤖</td>
     <td><strong>Python</strong></td>
     <td>Soon</td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/RemasterLabs">RemasterLabs</a></td>
     <td>A collection of 50+ web projects that have been reimagined and remastered. 🕸️</td>
     <td><strong>HTML, CSS, JavaScript</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/RemasterLabs/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Screw-Card">Screw Game Card</a></td>
     <td>Screw Game Points Tracker 🃏</td>
     <td><strong>HTML</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/Screw-Card/">Live</a></td>
+    <td>>Allowed</td>
   </tr>
 </table>
 
@@ -251,61 +272,73 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
     <td><strong>Repo</strong></td>
     <td><strong>Description</strong></td>
     <td><strong>Language</strong></td>
+    <td><strong>Contribution</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Little-Limon">Little Lemon</a></td>
     <td>Full Professional Project Under Meta's Supervision 🍋🪙</td>
     <td><strong>Kotlin</strong></td>
+    <td>>View Only</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/FitWave">FitWave</a></td>
     <td>Explore a wide range of workout plans, personalized routines, and health tips designed to help you achieve your fitness goals 💪</td>
     <td><strong>Kotlin</strong></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/BrandStep">BrandStep</a></td>
     <td>eCommerce app for purchasing the latest and most popular branded shoes and clothing 🛒</td>
     <td><strong>Kotlin</strong></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/ToDoWiz">ToDoWiz</a></td>
     <td>MVVM Application for iOS and Android with Compose Multiplatform in Kotlin 📃</td>
     <td><strong>Kotlin Multiplatform</strong></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Restaurant_APP">Pizza Slice</a></td>
     <td>UI Restaurant Menu And Orders App 🍕</td>
     <td><strong>Flutter</strong></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Calculator">Calculator</a></td>
     <td>Simple Calculator Application Built Using Kotlin 🧮</td>
     <td><strong>Kotlin</strong></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Firebase-Email-Authentication">Firebase Authentication</a></td>
     <td>Firebase Authentication With Email 🔥</td>
     <td><strong>Kotlin</strong></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/JetPack-Compose">Simple Ui</a></td>
     <td>Jetpack Compose for building Android UIs 💥</td>
     <td><strong>Kotlin</strong></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Little-Lemon-Menu">Little Lemon Menu</a></td>
     <td>Implementation For Sorting, Searching, Filtering, Opening Products 🍽️</td>
     <td><strong>Kotlin</strong></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/CatHub_SignUp">CatHub</a></td>
     <td>Simple UI Register Page With Animation 🐈‍⬛</td>
     <td><strong>Kotlin</strong></td>
+    <td>>Allowed</td>
   </tr>
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/LittleLemon-Menu-Editor">LittleLemon Menu Editor</a></td>
     <td>Uses Room Persistence To Handle Local Storage of Menu Items in SQLite Database 🎈</td>
     <td><strong>Kotlin</strong></td>
+    <td>>Allowed</td>
   </tr>
 </table>
 
