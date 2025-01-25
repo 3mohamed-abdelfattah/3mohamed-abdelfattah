@@ -118,13 +118,13 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
     <td><strong>Live</strong></td>
     <td><strong>Contribution</strong></td>
   </tr>
-  <tr>
+<!--   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Expat.cl">Expat.cl</a></td>
     <td>Expat.cl is a comprehensive web platform that provides essential support services for expatriates moving to Chile. 💳</td>
     <td><strong>HTML, TailwindCSS</strong></td>
     <td><a href="https://3mohamed-abdelfattah.github.io/Expat.cl/">Live</a></td>
     <td>View Only</td>
-  </tr>
+  </tr> -->
   <tr>
     <td><a href="https://github.com/3mohamed-abdelfattah/Luxe-Chronos">Luxe Chronos</a></td>
     <td>Luxe Chronos is a redesigned and rebuilt landing page for a luxury watches shop, developed for a client aiming to provide a sleek and modern user experience for luxury watches. ⌚</td>
