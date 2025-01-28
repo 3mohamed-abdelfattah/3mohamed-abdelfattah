@@ -52,7 +52,7 @@ Feel free to explore, utilize resources, or collaborate. I’m always open to co
 
 <hr/>
 
-
+<!-- 
 <h1 align="center">
 Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" />
 </h1> 
@@ -96,6 +96,8 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
 <br/>
 
 <hr/>
+
+-->
 
 :warning: **Legal Notice** :warning: 
 
