@@ -13,7 +13,7 @@
 
  Here, you’ll find a well-organized collection of projects, resources, and tools crafted to support both clients and fellow developers in enhancing their productivity and learning:
 
-- **Professional Project Code**: This section includes codebases for my professional projects, maintained with high-quality organization. Clients can monitor updates in real-time and review progress through detailed documentation.
+- **Professional Project Code**: This section includes codebases for my professional projects, maintained with high-quality organization. Clients can monitor updates in real time and review progress through detailed documentation.
 
 - **Developer Tools and Extensions**: I provide a range of tools and custom extensions designed to streamline development workflows and boost efficiency for other developers.
 
