@@ -38,7 +38,7 @@ Feel free to explore, utilize resources, or collaborate. I’m always open to co
   <img src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="upwork" width="60px" />
 </a>
   &nbsp;
-<a href="https://www.linkedin.com/in/Codem-3/">
+<a href="https://www.linkedin.com/in/3-mohamed/">
 	<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="60px" alt="LinkedIn">
 </a>
 	  &nbsp;
