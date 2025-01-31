@@ -1,13 +1,15 @@
-<div align="center">
+<!-- <div align="center">
    <img src="https://github.com/user-attachments/assets/4aa1ece5-e87b-4526-8113-33b5371ea14c" width="400px">
-</div>
+</div> -->
 
+![linkedin banner1-01](https://github.com/user-attachments/assets/4c44d154-7e5f-4cb0-87a0-e113e926ff63)
 
+<!--
 <h1 align="center">
   About This GitHub  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Shark.png" alt="Shark" width="40" />
-</h1>
+</h1> -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Codem-3&label=Profile%20views&color=orange&style=for-the-badge" alt="Codem-3" /> </p>
+<hr/>
 
 ### Greetings, World of Innovation! &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="28" />
 
