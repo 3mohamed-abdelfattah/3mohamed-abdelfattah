@@ -503,10 +503,10 @@ Languages and Tools  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-
   </tr>
 </table>
 
+<!--
 <h1 align="center">
 GitHub Stats &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="35" />	
 </h1> 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codem-3&layout=compact&hide_border=true" alt="mohamed-abdelfattah" />
 </div>
@@ -518,6 +518,7 @@ GitHub Stats &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-An
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codem-3&hide_border=true&bg_color=0D1117" alt="mohamed-abdelfattah" />
 </a>
 </div>
+-->
 
 <h1 align="center">
      IT WAS NICE MEETING YOU! &nbsp <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35" />
