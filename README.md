@@ -31,6 +31,7 @@
 
 Feel free to explore, utilize resources, or collaborate. I’m always open to connecting with the developer community and supporting others in their journey!
 
+<!--
 <hr/>
 
 <div align="center">
@@ -50,7 +51,7 @@ Feel free to explore, utilize resources, or collaborate. I’m always open to co
 </h3>
 
 
-</div>
+</div> -->
 
 <hr/>
 
